@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+            
+    <ListView 
+        android:id="@+id/physicians_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/sort_by_txt"/>
+    
+    <TextView 
+        android:id="@+id/sort_by_txt"
+        android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_above="@+id/sort_options_container"
+		android:gravity="center"
+		android:text="@string/sort_header"/>
+    
+    <LinearLayout
+        android:id="@+id/sort_options_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        
+        <Button
+            android:id="@+id/default_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/default_sort"
+            android:onClick="onClick"/>
+        
+        <Button
+            android:id="@+id/best_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/best_sort"
+            android:onClick="onClick"/>
+        
+        <Button
+            android:id="@+id/worst_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/worst_sort"
+            android:onClick="onClick"/>
+        
+        <Button
+            android:id="@+id/specialty_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/specialty_sort"
+            android:onClick="onClick"/>
+        
+    </LinearLayout>
+    
+
+</RelativeLayout>

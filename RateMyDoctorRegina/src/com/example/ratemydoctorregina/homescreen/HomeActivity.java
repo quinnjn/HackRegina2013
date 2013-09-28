@@ -5,6 +5,7 @@ import com.example.ratemydoctorregina.R.id;
 import com.example.ratemydoctorregina.R.layout;
 import com.example.ratemydoctorregina.R.menu;
 import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesActivity;
+import com.example.ratemydoctorregina.physiciansscreen.PhysicianActivity;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -50,7 +51,7 @@ public class HomeActivity extends Activity implements OnClickListener
 				startActivity(new Intent(this, FacilitiesActivity.class));
 				break;
 			case R.id.physician_btn:
-				
+				startActivity(new Intent(this, PhysicianActivity.class));
 				break;
 			case R.id.map_btn:
 				

@@ -20,5 +20,13 @@
     <string name="worst_sort">Lowest Rating</string>
     <string name="default_sort">None</string>
     <string name="nearby_sort">Nearby</string>
+    
+    <!-- Physicians screen strings -->
+    <string name="physicians_title">Physicians</string>
+    <string name="specialty_sort">Specialty</string>
+    
+    <!-- Physicians details screen -->
+    <string name="specialties_header"><b>Specialties</b></string>
+    <string name="locations_header"><b>Locations</b></string>
 
 </resources>
