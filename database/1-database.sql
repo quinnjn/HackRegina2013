@@ -1,4 +1,4 @@
-DROP SCHEMA IF EXISTS HACKATHON;
+DROP SCHEMA HACKATHON;
 CREATE SCHEMA HACKATHON;
 CREATE TABLE HACKATHON.facilities(
 	rha				int,
@@ -26,8 +26,6 @@ CREATE TABLE HACKATHON.doctors(
 	specialty			varchar(55),
 	rha_name			varchar(30),
 	PRIMARY KEY(doctor_name, clinic_name)
-);
-	
 );
 
 
