@@ -2,6 +2,8 @@ package com.example.ratemydoctorregina.model;
 
 import java.util.ArrayList;
 
+import org.json.JSONObject;
+
 public class Doctor 
 {
 	private String _name;
@@ -17,6 +19,11 @@ public class Doctor
 		
 	}
 
+	public void init(JSONObject json)
+	{
+		
+	}
+	
 	public String get_name() 
 	{
 		return _name;
