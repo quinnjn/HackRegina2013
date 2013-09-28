@@ -3,9 +3,12 @@ package com.example.ratemydoctorregina.facilitiesscreen;
 import java.util.ArrayList;
 
 import com.example.ratemydoctorregina.R;
+import com.example.ratemydoctorregina.model.Doctor;
+import com.example.ratemydoctorregina.model.Facility;
 
 import android.app.Activity;
 import android.view.View;
+import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
@@ -13,13 +16,19 @@ import android.widget.TextView;
 public class FacilitiesAdapter extends BaseAdapter 
 {
 
-	ArrayList<Object> _facilities;
+	ArrayList<Facility> _facilities;
 	Activity _context;
-	
+		
 	public FacilitiesAdapter(Activity context)
 	{
 		_context = context;
-		_facilities = new ArrayList<Object>();
+		_facilities = new ArrayList<Facility>();
+	}
+	
+	public void setData(ArrayList<Facility> facilities)
+	{
+		_facilities = facilities;
+		notifyDataSetChanged();
 	}
 	
 	@Override
