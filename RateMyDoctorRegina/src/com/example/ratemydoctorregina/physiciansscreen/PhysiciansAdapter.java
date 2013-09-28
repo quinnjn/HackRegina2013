@@ -97,7 +97,7 @@ public class PhysiciansAdapter extends BaseAdapter
 							@Override
 							public int compare(Doctor lhs, Doctor rhs) 
 							{
-								return (int)((lhs.get_rating() - rhs.get_rating()) * 100);
+								return (int)((rhs.get_rating() - lhs.get_rating()) * 100);
 							}
 						});
 				_best_sorted = new ArrayList<Doctor>();
@@ -115,7 +115,7 @@ public class PhysiciansAdapter extends BaseAdapter
 							@Override
 							public int compare(Doctor lhs, Doctor rhs) 
 							{
-								return (int)((rhs.get_rating() - lhs.get_rating()) * 100);
+								return (int)((lhs.get_rating() - rhs.get_rating()) * 100);
 							}
 						});
 				_worst_sorted = new ArrayList<Doctor>();

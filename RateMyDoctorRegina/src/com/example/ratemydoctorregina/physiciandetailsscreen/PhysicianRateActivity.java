@@ -55,6 +55,7 @@ public class PhysicianRateActivity extends Activity
 				
 				Log.d("Rating Scale", "Progress: " + progress);
 				_rating_text.setText("My Rating: " + progress/20);
+				_doctor.set_rating(progress/20);
 			}
 		});
 		
