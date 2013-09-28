@@ -2,11 +2,14 @@ package com.example.ratemydoctorregina.model;
 
 import java.util.ArrayList;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 public class Doctor 
 {
 	private String _name;
 	
-	private ArrayList<String> _specialties;
+	private String _specialty;
 	
 	private float _rating;
 	
@@ -17,6 +20,22 @@ public class Doctor
 		
 	}
 
+	public void init(JSONObject json) throws JSONException
+	{
+		if (json.has("doctor_name"))
+		{
+			_name = json.getString("doctor_name");
+		}
+		
+		if (json.has("specialty"))
+		{
+			_specialty = json.getString("specialty");
+		}
+		
+		// TODO:  Add facility PULL
+		
+	}
+	
 	public String get_name() 
 	{
 		return _name;
@@ -27,14 +46,14 @@ public class Doctor
 		this._name = _name;
 	}
 
-	public ArrayList<String> get_specialties() 
+	public String get_specialties() 
 	{
-		return _specialties;
+		return _specialty;
 	}
 
-	public void set_specialties(ArrayList<String> _specialties) 
+	public void set_specialties(String specialty) 
 	{
-		this._specialties = _specialties;
+		this._specialty = specialty;
 	}
 
 	public float get_rating() 
