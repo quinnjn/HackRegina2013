@@ -5,11 +5,13 @@ import java.util.ArrayList;
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesAdapter;
 import com.example.ratemydoctorregina.model.Doctor;
+import com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTaskDelegate;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -40,9 +42,11 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 	OnItemClickListener physician_listener = new OnItemClickListener() 
 	{
 		@Override
-		public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) 
+		public void onItemClick(AdapterView<?> arg0, View arg1, int position, long arg3) 
 		{
-			
+			Intent intent = new Intent(PhysicianActivity.this, PhysicianDetailsActivity.class);
+			intent.putExtra("doctor", (Doctor)_physicians.getAdapter().getItem(position));
+			startActivity(intent);
 		}
 	};
 

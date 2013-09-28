@@ -1,11 +1,12 @@
 package com.example.ratemydoctorregina.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class Doctor 
+public class Doctor implements Serializable
 {
 	private String _name;
 	

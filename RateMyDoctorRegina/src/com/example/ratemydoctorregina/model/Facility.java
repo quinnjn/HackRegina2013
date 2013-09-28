@@ -1,10 +1,11 @@
 package com.example.ratemydoctorregina.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import android.location.Location;
 
-public class Facility 
+public class Facility implements Serializable
 {
 	private String _name;
 	
