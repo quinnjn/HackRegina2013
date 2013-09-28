@@ -63,7 +63,7 @@ public class PhysicianRateActivity extends Activity
 			@Override
 			public void onClick(View v) 
 			{
-				new RateMyDoctorAsyncTask(_doctor, this).execute();
+				new RateMyDoctorAsyncTask(_doctor, PhysicianRateActivity.this).execute();
 			}
 		});
 	}
