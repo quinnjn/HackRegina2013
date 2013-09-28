@@ -10,7 +10,8 @@ import android.widget.BaseAdapter;
 public class FacilitiesAdapter extends BaseAdapter 
 {
 
-	ArrayList<Object> facilities;
+	ArrayList<Object> _facilities;
+	Context _context;
 	
 	public FacilitiesAdapter(Context _context)
 	{
@@ -20,13 +21,13 @@ public class FacilitiesAdapter extends BaseAdapter
 	@Override
 	public int getCount() 
 	{
-		return facilities.size();
+		return _facilities.size();
 	}
 
 	@Override
 	public Object getItem(int position) 
 	{
-		return facilities.get(position);
+		return _facilities.get(position);
 	}
 
 	@Override
@@ -42,9 +43,9 @@ public class FacilitiesAdapter extends BaseAdapter
 		View view = convertView;
 		if (view == null)
 		{
-			view = context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem1, null);
+		//	view = _context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem1, null);
 		}
-		view.FindViewById<TextView>(Android.Resource.Id.Text1).Text = items[position];
+		
 		return view;
 	}
 
