@@ -35,8 +35,7 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 		_physicians.setOnItemClickListener(physician_listener);
 		_physicians.setAdapter(new PhysiciansAdapter(this));
 		
-		AllDoctorsAsyncTask task = new AllDoctorsAsyncTask(this);
-		task.execute();
+		refresh();
 	}
 	
 	OnItemClickListener physician_listener = new OnItemClickListener() 
@@ -111,5 +110,11 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 	public void AllDoctorsFetcherDidFailToFetchUpdate() 
 	{
 		Log.d("RateMyDoctor", "Failed to fetch doctors");
+	}
+	
+	public void refresh()
+	{
+		AllDoctorsAsyncTask task = new AllDoctorsAsyncTask(this);
+		task.execute();
 	}
 }

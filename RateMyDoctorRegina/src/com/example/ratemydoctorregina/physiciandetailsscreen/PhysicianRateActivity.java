@@ -1,7 +1,14 @@
 package com.example.ratemydoctorregina.physiciandetailsscreen;
 
+import java.net.URI;
+
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.conn.DefaultClientConnection;
+
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.model.Doctor;
+import com.example.ratemydoctorregina.server.RateMyDoctorAsyncTask;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -56,7 +63,7 @@ public class PhysicianRateActivity extends Activity
 			@Override
 			public void onClick(View v) 
 			{
-				
+				new RateMyDoctorAsyncTask(_doctor, this).execute();
 			}
 		});
 	}
