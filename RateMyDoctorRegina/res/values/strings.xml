@@ -28,5 +28,6 @@
     <!-- Physicians details screen -->
     <string name="specialties_header"><b>Specialties</b></string>
     <string name="locations_header"><b>Locations</b></string>
+    <string name="rate_me_btn">Rate Me!</string>
 
 </resources>

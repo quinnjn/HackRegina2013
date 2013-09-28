@@ -11,13 +11,15 @@ import android.widget.ListView;
 
 public class PhysicianActivity extends Activity implements OnClickListener 
 {
+	ListView physicians;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_physicians);
 		
-		((ListView)findViewById(R.id.physicians_list)).setAdapter(new FacilitiesAdapter(this));
+		physicians = ((ListView)findViewById(R.id.physicians_list));
 	}
 
 	@Override
