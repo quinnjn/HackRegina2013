@@ -4,9 +4,11 @@ import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.R.id;
 import com.example.ratemydoctorregina.R.layout;
 import com.example.ratemydoctorregina.R.menu;
+import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesActivity;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -45,7 +47,7 @@ public class HomeActivity extends Activity implements OnClickListener
 		switch(v.getId())
 		{
 			case R.id.facilities_btn:
-				
+				startActivity(new Intent(this, FacilitiesActivity.class));
 				break;
 			case R.id.physician_btn:
 				

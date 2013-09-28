@@ -4,9 +4,21 @@
     <string name="app_name">Rate My Doctor Regina</string>
     <string name="action_settings">Settings</string>
     
+    <!-- Home screen strings -->
     <string name="submit_btn">Submit</string>
     <string name="facilities_btn">Facilities</string>
     <string name="physicians_btn">Physicians</string>
     <string name="map_btn">Map</string>
+    
+    <!-- Facilities screen strings -->
+    <string name="facilities_title">Facilities</string>
+    <string name="all_filter">All</string>
+    <string name="hospitals_filter">Hospitals</string>
+    <string name="clinics_filter">Clinics</string>
+    <string name="sort_header">Sort By</string>
+    <string name="best_sort">Highest Rating</string>
+    <string name="worst_sort">Lowest Rating</string>
+    <string name="default_sort">None</string>
+    <string name="nearby_sort">Nearby</string>
 
 </resources>

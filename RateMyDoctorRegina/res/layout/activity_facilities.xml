@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/filter_options_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:weightSum="3">
+        
+        <Button
+            android:id="@+id/all_filter_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/all_filter"/>
+
+       <Button
+            android:id="@+id/hospital_filter_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/hospitals_filter"/>
+        
+        <Button
+            android:id="@+id/clinic_filter_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/clinics_filter"/>
+        
+    </LinearLayout>
+        
+    <ListView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filter_options_container"
+        android:layout_above="@+id/sort_options_container">
+        
+    </ListView>
+    
+    <LinearLayout
+        android:id="@+id/sort_options_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        
+        <Button
+            android:id="@+id/default_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/default_sort"/>
+        
+        <Button
+            android:id="@+id/best_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/best_sort"/>
+        
+        <Button
+            android:id="@+id/worst_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/worst_sort"/>
+        
+        <Button
+            android:id="@+id/nearby_sort_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/nearby_sort"/>
+        
+    </LinearLayout>
+    
+
+</RelativeLayout>
