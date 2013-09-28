@@ -39,6 +39,7 @@
     </LinearLayout>
         
     <ListView 
+        android:id="@+id/facilities_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/filter_options_container"

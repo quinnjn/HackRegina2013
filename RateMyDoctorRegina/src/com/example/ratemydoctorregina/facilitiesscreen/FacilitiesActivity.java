@@ -7,6 +7,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.ListView;
 
 public class FacilitiesActivity extends Activity implements OnClickListener
 {
@@ -16,7 +17,7 @@ public class FacilitiesActivity extends Activity implements OnClickListener
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_facilities);
 		
-		
+		((ListView)findViewById(R.id.facilities_list)).setAdapter(new FacilitiesAdapter(this));
 	}
 
 	@Override
