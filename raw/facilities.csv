@@ -1,266 +1,266 @@
-RHA ,RHA Name,Facility ID ,Facility Name,Facility Type,Type_ID,Hospital Designation,Street Address,Location,Postal Code,Lat_DD,Long_DD
-1,Sun Country,2,Arcola Health Centre,Hospital,1,Community Hospital,607 Prairie Avenue,Arcola,S0C 0G0,49.63333333,-102.4833333
-1,Sun Country,36,St. Joseph's Hospital,Hospital,1,District Hospital,1176 Nicholson Road,Estevan,S4A 2V6,49.13333333,-102.9833333
-1,Sun Country,68,Kipling Memorial Health Centre,Hospital,1,Community Hospital,803 1st Street,Kipling,S0G 2S0,50.1,-102.6333333
-1,Sun Country,168,Weyburn General Hospital,Hospital,1,District Hospital,201 1st Avenue N.E.,Weyburn,S4H 2Z9,49.66666667,-103.85
-1,Sun Country,128/11127,Redvers Health Centre/Centennial Haven,Hospital w/ Special Care Home,2,Community Hospital,18 Eichhorst Street,Redvers,S0C 2H0,49.56666667,-101.7
-1,Sun Country,113,Pangman Health Centre,Health Centre,3,,211 Keeler Street,Pangman,S0C 2C0,49.65,-104.6666667
-1,Sun Country,7/7135,Bengough Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,400 2nd Street E.,Bengough,S0C 0K0,49.4,-105.1333333
-1,Sun Country,20,Coronach Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,240 Souris Avenue E.,Coronach,S0H 0Z0,49.11666667,-105.5166667
-1,Sun Country,40,Fillmore Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,100 Main St.,Fillmore,S0C 1N0,49.88333333,-103.4333333
-1,Sun Country,44,Gainsborough & Area Health Centre,Health Centre w/ Special Care Home,4,,312 Stephens Street,Gainsborough,S0G 1S0,49.16666667,-101.45
-1,Sun Country,72,Lampman Community Health Centre,Health Centre w/ Special Care Home,4,,309 2nd Avenue E.,Lampman,S0C 1N0,49.38333333,-102.75
-1,Sun Country,93/8147,Mainprize Manor & Health Centre,Health Centre w/ Special Care Home,4,,206 South Street,Midale,S0C 1S0,49.4,-103.4
-1,Sun Country,111,Galloway Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,917 Tupper Street,Oxbow,S0C 2B0,49.23333333,-102.1666667
-1,Sun Country,127/8110,Radville Marian Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,310 Railway Avenue,Radville,S0C 2G0,49.45,-104.2833333
-1,Sun Country,167/11145,Wawota Memorial Health Centre/Deer View Lodge,Health Centre w/ Special Care Home,4,Hospital operating as Health Centre,609 Choo Foo Crescent,Wawota,S0G 5A0,49.9,-102.0333333
-1,Sun Country,11118,Moose Mountain Lodge Company Inc.,Special Care Home,5,,6th Street W.,Carlyle,S0C 0R0,49.63333333,-102.2666667
-1,Sun Country,10115,The Border-Line Housing Company,Special Care Home,5,,415 Spencer St.,Carnduff,S0C 0S0,49.16666667,-101.8
-1,Sun Country,9122,Estevan Regional Nursing Home,Special Care Home,5,,1921 Wellock Road,Estevan,S4A 2V6,49.13333333,-102.9833333
-1,Sun Country,13132,Willowdale Lodge,Special Care Home,5,,128 4th Street S.,Kipling,S0G 2S0,50.1,-102.6333333
-1,Sun Country,11136,Newhope Pioneer Lodge,Special Care Home,5,,123 Governmant Road,Stoughton,S0G 4T0,49.68333333,-103.0333333
-1,Sun Country,8156,Souris Valley Extended Care Centre,Special Care Home,5,,,Weyburn,S4H 2Z9,49.66666667,-103.85
-1,Sun Country,8129,Weyburn Special Care Home,Special Care Home,5,,704 5th Street N.E.,Weyburn,S4H 2Z9,49.66666667,-103.85
-2,Five Hills,003,Assiniboia Union Hospital,Hospital,1,Community Hospital,501 6th Avenue E.,Assiniboia,S0H 0B0,49.63333333,-105.9833333
-2,Five Hills,96,Moose Jaw Union Hospital,Hospital,1,Regional Hospital,455 Fairford Street E.,Moose Jaw,S6H 1H3,50.4,-105.5333333
-2,Five Hills,18/6150,Central Butte Regency Hospital,Hospital w/ Special Care Home,2,Community Hospital,601 Canada Street,Central Butte,S0H 0T0,50.8,-106.5166667
-2,Five Hills,46/5111,St. Joseph's Hospital / Foyer d' Youville,Hospital w/ Special Care Home,2,Community Hospital,216 Bettez Street,Gravelbourg,S0H 1X0,49.88333333,-106.55
-2,Five Hills,65,Kincaid Health Centre,Health Centre,3,,Municipal Road,Kincaid,S0H 2J0,49.66666667,-107
-2,Five Hills,625,Mossbank Wellness Centre,Health Centre,3,,3rd Ave. S.,Mossbank,S0H 3G0,49.93333333,-105.9666667
-2,Five Hills,694,Willowbunch Health Centre,Health Centre,3,,17 3rd St. E.,Willowbunch,S0H 4K0,,
-2,Five Hills,21,Craik & District Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,,Craik,S0G 0V0,51.05,-105.8166667
-2,Five Hills,71,Lafleche & District Health Centre,Health Centre w/ Special Care Home,4,,315 Main St.,Lafleche,S0H 2K0,49.71666667,-106.5833333
-2,Five Hills,132,Grasslands Health Centre,Health Centre w/ Special Care Home,4,,1006 Hwy. 2,Rockglen,S0H 3R0,49.18333333,-105.95
-2,Five Hills,7117,Assiniboia Pioneer Lodge,Special Care Home,5,,800 1st St. W.,Assiniboia,S0H 0B0,49.63333333,-105.9833333
-2,Five Hills,7126,Ross Payant Centennial Home,Special Care Home,5,,300 Jubilee Pl.,Assiniboia,S0H 0B0,49.63333333,-105.9833333
-2,Five Hills,6114,Extendicare Ltd.,Special Care Home,5,,1151 Coteau Street W.,Moose Jaw,S6H 5G5,50.4,-105.5333333
-2,Five Hills,6132,Pioneer Housing,Special Care Home,5,,1000 Albert Street,Moose Jaw,S6H 2Y2,50.4,-105.5333333
-2,Five Hills,6169,Providence Place,Special Care Home,5,,100 2nd Avenue N.E.,Moose Jaw,S6H 1B8,50.4,-105.5333333
-3,Cypress,51,Herbert Morse Hospital,Hospital,1,Community Hospital,303 Brownlee Street,Herbert,S0H 2A0,50.43333333,-107.2166667
-3,Cypress,76,Leader Hospital,Hospital,1,Community Hospital,423 Main Street E.,Leader,S0N 1H0,50.88333333,-109.55
-3,Cypress,88,Maple Creek Hospital,Hospital,1,Community Hospital,Highway 21 S.,Maple Creek,S0N 1N0,49.91666667,-109.4833333
-3,Cypress,149,Cypress Regional Hospital,Hospital,1,Regional Hospital,499 4th Avenue N.E.,Swift Current,S9H 2K1,50.28333333,-107.8
-3,Cypress,144/4145,Shaunavon Hospital and Care Centre,Hospital w/ Special Care Home,2,Community Hospital,660 4th Street E.,Shaunavon,S0N 2M0,49.65,-108.4166667
-3,Cypress,19,Border Health Centre,Health Centre,3,ER Health Centre Site,301 1st Street W.,Climax,S0N 0N0,49.2,-108.3833333
-3,Cypress,614,Hodgeville Health Centre,Health Centre,3,,Main Street,Hodgeville,S0H 2B0,50.11666667,-106.9666667
-3,Cypress,160,Vanguard Health Centre,Health Centre,3,,Division Street,Vanguard,S0N 2V0,49.91666667,-107.3
-3,Cypress,15,Prairie Health Care Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,517 1st Street N.,Cabri,S0N 1A0,50.61666667,-108.4666667
-3,Cypress,31/4118,Eastend Wolf Willow Health Centre,Health Centre w/ Special Care Home,4,ER Health Centre Site,555 Redcoat Drive,Eastend,S0N 0T0,49.51666667,-108.8166667
-3,Cypress,48/2112,Gull Lake Special Care Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,751 Grey Street,Gull Lake,S0N 1A0,50.1,-108.4833333
-3,Cypress,87,Prairie View Health Centre,Health Centre w/ Special Care Home,4,ER Health Centre Site,241 1st Avenue,Mankota,S0H 2W0,49.41666667,-107.0666667
-3,Cypress,115/4127,Ponteix Health Centre,Health Centre w/ Special Care Home,4,ER Health Centre Site,428 2nd Avenue,Ponteix,S0N 1Z0,49.75,-107.4833333
-3,Cypress,3124,Herbert Nursing Home Inc.,Special Care Home,5,,405 Herbert Avenue,Herbert,S0H 2A0,50.43333333,-107.2166667
-3,Cypress,1119,Western Senior Citizens Lodge,Special Care Home,5,,400 1st Street W.,Leader,S0N 1H0,50.88333333,-109.55
-3,Cypress,2121,Cypress Lodge Nursing Home,Special Care Home,5,,Highway 21 S.,Maple Creek,S0N 1N0,49.91666667,-109.4833333
-3,Cypress,3142,Prairie Pioneers Lodge,Special Care Home,5,,302 Central Avenue S.,Swift Current,S9H 3G3,50.28333333,-107.8
-3,Cypress,3133,Swift Current Care Centre,Special Care Home,5,,700 Aberdeen Street E.,Swift Current,S9H 3E3,50.28333333,-107.8
-3,Cypress,3151,The Palliser Regional Care Centre,Special Care Home,5,,440 Central Avenue S.,Swift Current,S9H 3G6,50.28333333,-107.8
-3,Cypress,20b,Hodgeville*,Primary Health Centre,7,,"Main Street, PO Box 232",Hodgeville,S0H 2B0,50.11666667,-106.9666667
-3,Cypress,20a,Vanguard,Primary Health Centre,7,,P.O. Box 190,Vanguard,S0N 2V0,49.91666667,-107.3
-4,Regina Qu'Appelle,13,Broadview Hospital,Hospital,1,Community Hospital,901 Nina St.,Broadview,S0G 0K0,50.36666667,-102.5833333
-4,Regina Qu'Appelle,401,All Nations Healing Hospital,Hospital,1,Community Hospital,760 Broadway Street W.,Fort Qu'Appelle,S0G 1S0,,
-4,Regina Qu'Appelle,58,Indian Head Hospital,Hospital,1,Community Hospital,300 Hospital St.,Indian Head,S0G 2K0,50.53333333,-103.6666667
-4,Regina Qu'Appelle,99,Moosomin Hospital,Hospital,1,Community Hospital,320 Gertie St.,Moosomin,S0G 3N0,50.13333333,-101.6666667
-4,Regina Qu'Appelle,130,Pasqua Hospital,Hospital,1,Provincial Hospital,4101 Dewdney Avenue,Regina,S4T 1A5,50.45,-104.6166667
-4,Regina Qu'Appelle,129,Regina General Hospital,Hospital,1,Provincial Hospital,1440 14th Avenue,Regina,S4P 0W5,50.45,-104.6166667
-4,Regina Qu'Appelle,173,Wolseley Memorial Hospital,Hospital,1,Community Hospital,801 Ouimet St.,Wolseley,S0G 5H0,50.41666667,-103.2666667
-4,Regina Qu'Appelle,5/39110,Balcarres Integrated Care Centre,Hospital w/ Special Care Home,2,Community Hospital,100 South Elgin Street,Balcarres,S0G 0C0,50.8,-103.55
-4,Regina Qu'Appelle,79,St. Joseph's Integrated Care Centre,Hospital w/ Special Care Home,2,Community Hospital,505 Westmoor Street,Lestock,S0A 2G0,51.31666667,-103.9833333
-4,Regina Qu'Appelle,23,Cupar Health Centre,Health Centre,3,,,Cupar,S0G 0Y0,50.95,-104.2166667
-4,Regina Qu'Appelle,47,Grenfell Health Centre,Health Centre,3,,721 Stella Street,Grenfell,S0G 2B0,50.41666667,-102.9333333
-4,Regina Qu'Appelle,667,Raymore Community Health & Social Centre,Health Centre,3,,806 2nd Avenue,Raymore,S0A 3J0,51.41666667,-104.5166667
-4,Regina Qu'Appelle,,Al Ritchie Health Action Centre,Health Centre,3,,325 Victoria Avenue,Regina,S4N 0P5,50.45,-104.6166667
-4,Regina Qu'Appelle,,Four Directions Community Health Centre,Health Centre,3,,3510 5th Avenue,Regina,S4T 0M2,50.45,-104.6166667
-4,Regina Qu'Appelle,,Southey Health Action Centre,Health Centre,3,,,Southey,S0G 4P0,50.93333333,-104.5
-4,Regina Qu'Appelle,57,Long Lake Valley Integrated Facility,Health Centre w/ Special Care Home,4,,,Imperial,S0G 2J0,51.35,-105.4333333
-4,Regina Qu'Appelle,95,Montmartre Integrated Health Centre,Health Centre w/ Special Care Home,4,,237 2nd Ave. E.,Montmartre,S0G 3M0,50.23333333,-103.45
-4,Regina Qu'Appelle,170/13150,Whitewood Community Health Centre,Health Centre w/ Special Care Home,4,,921 Gambetta St.,Whitewood,S0G 5C0,50.33333333,-102.2666667
-4,Regina Qu'Appelle,13114,Broadview and District Centennial Lodge Inc.,Special Care Home,5,,310 Calgary St.,Broadview,S0G 0K0,50.36666667,-102.5833333
-4,Regina Qu'Appelle,40112,Cupar and District Nursing Home Inc.,Special Care Home,5,,,Cupar,S0G 0Y0,50.95,-104.2166667
-4,Regina Qu'Appelle,39129,Echo Lodge,Special Care Home,5,,560 Broadway Street W.,Fort Qu'Appelle,S0G 1S0,,
-4,Regina Qu'Appelle,13123,Grenfell and District Pioneer Home,Special Care Home,5,,710 Regina Avenue,Grenfell,S0G 2B0,50.41666667,-102.9333333
-4,Regina Qu'Appelle,14117,Golden Prairie Home Ltd.,Special Care Home,5,,916 Eden Street,Indian Head,S0G 2K0,50.53333333,-103.6666667
-4,Regina Qu'Appelle,15217,Lumsden & District Heritage Home Inc.,Special Care Home,5,,,Lumsden,S0G 3C0,50.65,-104.8666667
-4,Regina Qu'Appelle,12111,The Eastern Saskatchewan Pioneer Lodge,Special Care Home,5,,506 Windover Avenue,Moosomin,S0G 3N0,50.13333333,-101.6666667
-4,Regina Qu'Appelle,,The Eastern Saskatchewan Pioneer Lodge (Nursing Home),Special Care Home,5,,405 Windover Avenue,Moosomin,S0G 3N0,50.13333333,-101.6666667
-4,Regina Qu'Appelle,40130,Silver Heights Special Care Home,Special Care Home,5,,402 McLean Street,Raymore,S0A 3J0,51.41666667,-104.5166667
-4,Regina Qu'Appelle,15129,Extendicare Elmview,Special Care Home,5,,4125 Rae Street,Regina,S4S 3A5,50.45,-104.6166667
-4,Regina Qu'Appelle,15110,Extendicare Parkside,Special Care Home,5,,4540 Rae Street,Regina,S4S 3B6,50.45,-104.6166667
-4,Regina Qu'Appelle,15138,Extendicare Sunset,Special Care Home,5,,260 Sunset Drive,Regina,S4S2S3,50.45,-104.6166667
-4,Regina Qu'Appelle,15165,Qu'Appelle House,Special Care Home,5,,1425 College Avenue,Regina,S4P 1B4,50.45,-104.6166667
-4,Regina Qu'Appelle,15174,Regina Lutheran Home,Special Care Home,5,,1925 5th Avenue N.,Regina,S4R 7W1,50.45,-104.6166667
-4,Regina Qu'Appelle,15183,Regina Pioneer Village,Special Care Home,5,,430 Pioneer Drive,Regina,S4T 6L8,50.45,-104.6166667
-4,Regina Qu'Appelle,15208,Santa Maria Senior Citizens Home,Special Care Home,5,,4215 Regina Avenue,Regina,S4S 0J5,50.45,-104.6166667
-4,Regina Qu'Appelle,15192,The Salvation Army William Booth Special Care Home,Special Care Home,5,,50 Angus Road,Regina,S4R 0J5,50.45,-104.6166667
-4,Regina Qu'Appelle,113141,Lakeside Home,Special Care Home,5,,701 Ouimet St.,Wolseley,S0G 5H0,50.41666667,-103.2666667
-4,Regina Qu'Appelle,501,Wascana Rehabilitation Centre,Rehabilitation Centre,6,,2180 23rd Avenue,Regina,S4S 0A5,50.45,-104.6166667
-4,Regina Qu'Appelle,6,Family Practice Unit - Regina,Primary Health Centre,7,,1440 14th Avenue,Regina,S4P 0W5,50.45,-104.6166667
-4,Regina Qu'Appelle,8,Four Directions,Primary Health Centre,7,,3510 5th Avenue,Regina,S4T 0M2,50.45,-104.6166667
-4,Regina Qu'Appelle,15,Regina Community Clinic,Primary Health Centre,7,,1106 Winnipeg Street,Regina,S4R 1J6,50.45,-104.6166667
-5,Sunrise,16,Canora Hospital,Hospital,1,Community Hospital,1219 Main Street,Canora,S0A 0L0,51.63333333,-102.4333333
-5,Sunrise,35,St. Anthony's Hospital,Hospital,1,Community Hospital,216 Ancona Street,Esterhazy,S0A 0X0,50.65,-102.0833333
-5,Sunrise,92,St. Peter's Hospital,Hospital,1,District Hospital,200 Heritage Drive,Melville,S0A 2P0,50.91666667,-102.8
-5,Sunrise,176,Yorkton Regional Health Centre,Hospital,1,Regional Hospital,270 Bradbrooke Drive,Yorkton,S3N 2K6,51.21666667,-102.4666667
-5,Sunrise,117,Preeceville Hospital,Hospital w/ Special Care Home,2,Community Hospital,712 7th Street N.E.,Preeceville,S0A 1M0,51.95,-102.6666667
-5,Sunrise,62/34115,Kamsack Hospital/Kamsack & District Nursing Home,Hospital w/ Special Care Home,2,Community Hospital,341 Stewart Street,Kamsack,S0A 1S0,51.56666667,-101.9
-5,Sunrise,41,Foam Lake Health Centre,Health Centre,3,,715 Saskatchewan Avenue E.,Foam Lake,S0A 1A0,,
-5,Sunrise,59/35127,Invermay Health Centre/Gateway Lodge,Health Centre w/ Special Care Home,4,,,Invermay,S0A 1M0,51.8,-103.15
-5,Sunrise,60/40121,Ituna Pioneer Health Care Centre,Health Centre w/ Special Care Home,4,,320 5th Avenue E.,Ituna,S0A 1N0,51.16666667,-103.5
-5,Sunrise,73/37123,Langenburg Health Complex,Health Centre w/ Special Care Home,4,,200 Heritage Drive,Langenburg,S0A 2A0,50.85,-101.7166667
-5,Sunrise,106/34133,Norquay Health Centre/Gateway Lodge,Health Centre w/ Special Care Home,4,,,Norquay,S0A 2V0,51.88333333,-102.0833333
-5,Sunrise,152,Theodore Health Centre,Health Centre w/ Special Care Home,4,,615 Anderson Avenue,Theodore,S0A 4C0,51.43333333,-102.9166667
-5,Sunrise,35118,Canora Gateway Lodge,Special Care Home,5,,212 Centre Ave E.,Canora,S0A 0L0,51.63333333,-102.4333333
-5,Sunrise,37114,Centennial Special Care Home,Special Care Home,5,,300 James Street,Esterhazy,S0A 0X0,50.65,-102.0833333
-5,Sunrise,41115,Foam Lake Jubilee Home,Special Care Home,5,,421 Alberta Avenue E.,Foam Lake,S0A 1A0,,
-5,Sunrise,38117,St. Paul Lutheran Home,Special Care Home,5,,Heritage Drive,Melville,S0A 2P0,50.91666667,-102.8
-5,Sunrise,36139,Lakeside Manor Care Home Inc.,Special Care Home,5,,101 Crescent Lake Road,Saltcoats,S0A 3R0,51.03333333,-102.1666667
-5,Sunrise,36111,Anderson Lodge,Special Care Home,5,,150 Independent Street,Yorkton,S3N 0S7,51.21666667,-102.4666667
-5,Sunrise,36120,Yorkton and District Nursing Home Corp.,Special Care Home,5,,200 Bradbrooke Drive,Yorkton,S3N 2K5,51.21666667,-102.4666667
-6,Saskatoon,54,Humboldt District Health Complex,Hospital,1,District Hospital,1210 9th Street N.,Humboldt,S0K 2A0,52.2,-105.1166667
-6,Saskatoon,74,Lanigan Hospital,Hospital,1,Community Hospital,36 Downing Drive E.,Lanigan,S0K 2M0,51.85,-105.0333333
-6,Saskatoon,135,Rosthern Hospital,Hospital,1,Community Hospital,2016 2nd Street,Rosthern,S0K 3R0,52.66666667,-106.3333333
-6,Saskatoon,142,Royal University Hospital,Hospital,1,Provincial Hospital,103 Hospital Drive,Saskatoon,S7N 0W8,52.11666667,-106.6333333
-6,Saskatoon,140,Saskatoon City Hospital,Hospital,1,Provincial Hospital,701 Queen Street,Saskatoon,S7K 0M7,52.11666667,-106.6333333
-6,Saskatoon,141,St. Paul's Hospital,Hospital,1,Provincial Hospital,1702 20th Street W.,Saskatoon,S7M 0Z9,52.11666667,-106.6333333
-6,Saskatoon,162,Wadena Hospital,Hospital,1,Community Hospital,533 & 433 5th Street N.E.,Wadena,S0A 4J0,51.95,-103.8
-6,Saskatoon,163,Wakaw Hospital,Hospital,1,Community Hospital,301 1st Street N.,Wakaw,S0K 4P0,52.65,-105.7333333
-6,Saskatoon,165,Watrous Hospital,Hospital,1,Community Hospital,702 4th Street E.,Watrous,S0K 4T0,51.66666667,-105.4666667
-6,Saskatoon,174,Wynyard Integrated Facility,Hospital w/ Special Care Home,2,Community Hospital,300 10th Street E.,Wynyard,S0A 4T0,51.76666667,-104.1833333
-6,Saskatoon,12,Borden Community Health Centre,Health Centre,3,,,Borden,S0K 0N0,52.4,-107.2333333
-6,Saskatoon,612,Delisle Community Health and Social Centre,Health Centre,3,,,Delisle,S0L 0P0,51.91666667,-107.1333333
-6,Saskatoon,683,Leroy Community Health & Social Centre,Health Centre,3,,211 1st Avenue N.E.,Leroy,S0K 2P0,52,-104.7333333
-6,Saskatoon,,Quill Lake Community Health & Social Centre,Health Centre,3,,50 Main Street,Quill Lake,S0A 3E0,52.06666667,-104.25
-6,Saskatoon,147,Spalding Community Health Centre,Health Centre,3,,133 Centre Street,Spalding,S0K 4C0,52.33333333,-104.5
-6,Saskatoon,670,Strasbourg and District Health Centre,Health Centre,3,,303 Edward Street,Strasbourg,S0G 4V0,51.06666667,-104.95
-6,Saskatoon,22/30113,Cudworth Health Centre/Nursing Home,Health Centre w/ Special Care Home,4,,607 4th Avenue,Cudworth,S0K 1B0,52.5,-105.7333333
-6,Saskatoon,105,Nokomis Health Centre/Puffer Special Care Home,Health Centre w/ Special Care Home,4,,103 2nd Avenue E.,Nokomis,S0G 3R0,51.5,-105
-6,Saskatoon,166/42136,Watson Community Health Centre/Quill Plains Centennial Lodge,Health Centre w/ Special Care Home,4,,402 2nd Street N.E.,Watson,S0K 4V0,52.11666667,-104.5166667
-6,Saskatoon,45117,Spruce Manor Special Care Home,Special Care Home,5,,,Dalmeny,S0K 1E0,52.33333333,-106.7666667
-6,Saskatoon,,Duck Lake & District Nursing Home Inc. Goodwill Manor,Special Care Home,5,,Victoria Avenue,Duck Lake,S0K 1J0,52.81666667,-106.2333333
-6,Saskatoon,44114,St Mary's Villa,Special Care Home,5,,1109 13th Street N.,Humboldt,S0K 2A0,52.2,-105.1166667
-6,Saskatoon,45126,Langham Senior Citizens Home,Special Care Home,5,,,Langham,S0K 2L0,52.36666667,-106.9666667
-6,Saskatoon,43111,Central Parkland Lodge,Special Care Home,5,,36 Downing Drive E.,Lanigan,S0K 2M0,51.85,-105.0333333
-6,Saskatoon,44132,Bethany Pioneer Village Inc.,Special Care Home,5,,,Middle Lake,S0K 2X0,52.48333333,-105.3
-6,Saskatoon,29139,Mennonite Nursing Home Inc.,Special Care Home,5,,Highway 11 South,Rosthern,S0K 3R0,52.66666667,-106.3333333
-6,Saskatoon,45135,Central Haven Special Care Home Inc.,Special Care Home,5,,1020 Avenue I N.,Saskatoon,S7L 2H7,52.11666667,-106.6333333
-6,Saskatoon,45311,Circle Drive Special Care Home Inc.,Special Care Home,5,,3055 Preston Avenue S.,Saskatoon,S7T 1C3,52.11666667,-106.6333333
-6,Saskatoon,45171,Extendicare,Special Care Home,5,,2225 Preston Avenue,Saskatoon,S7J 2E7,52.11666667,-106.6333333
-6,Saskatoon,45214,Jubilee Residences Inc. (Porteous),Special Care Home,5,,833 Avenue P N.,Saskatoon,S7L 2W5,52.11666667,-106.6333333
-6,Saskatoon,45223,Jubilee Residences Inc. (Stensrud),Special Care Home,5,,2202 McEown Avenue,Saskatoon,S7J 3L6,52.11666667,-106.6333333
-6,Saskatoon,45205,Lutheran Sunset Home,Special Care Home,5,,1212 Osler Street,Saskatoon,S7N 0T9,52.11666667,-106.6333333
-6,Saskatoon,45232,Oliver Lodge,Special Care Home,5,,1405 Faulkner Crescent,Saskatoon,S7L 3R5,52.11666667,-106.6333333
-6,Saskatoon,45320,Parkridge Centre,Special Care Home,5,,110 Gropper Avenue,Saskatoon,S7M 5N9,52.11666667,-106.6333333
-6,Saskatoon,45278,Saskatoon Convalescent Home,Special Care Home,5,,101 31st Street W.,Saskatoon,S7L 0P6,52.11666667,-106.6333333
-6,Saskatoon,,Saskatoon Vetrans Home,Special Care Home,5,,2109 Preston Avenue,Saskatoon,S7J 2E7,52.11666667,-106.6333333
-6,Saskatoon,,Sherbrooke Community Centre,Special Care Home,5,,410 Acadia Drive,Saskatoon,S7H 3V5,52.11666667,-106.6333333
-6,Saskatoon,45241,St. Anne's Senior Citizens' Village,Special Care Home,5,,2910 Louise Street,Saskatoon,S7J 3L8,52.11666667,-106.6333333
-6,Saskatoon,45250,St. Joseph's Home for the Aged,Special Care Home,5,,33 Valens Drive,Saskatoon,S7L 3S2,52.11666667,-106.6333333
-6,Saskatoon,45296,Sunnyside Nursing Home,Special Care Home,5,,2200 St. Henry Avenue,Saskatoon,S7M 0P5,52.11666667,-106.6333333
-6,Saskatoon,43120,Last Mountain Pioneer Home Inc.,Special Care Home,5,,700 Prospect Avenue,Strasbourg,S0G 4V0,51.06666667,-104.95
-6,Saskatoon,42127,Pleasant View Care Home,Special Care Home,5,,533 & 433 5th Street N.E.,Wadena,S0A 4J0,51.95,-103.8
-6,Saskatoon,30122,Lakeview Pioneer Lodge Inc.,Special Care Home,5,,400 1st Street N.,Wakaw,S0K 4P0,52.65,-105.7333333
-6,Saskatoon,45302,Warman Mennonite Special Care Home,Special Care Home,5,,405 3rd Avenue N.,Warman,S0K 4S0,52.31666667,-106.5666667
-6,Saskatoon,16122,Manitou Lodge,Special Care Home,5,,404 1st Street E.,Watrous,S0K 4T0,51.66666667,-105.4666667
-6,Saskatoon,4,Borden,Primary Health Centre,7,,308 Shepard Street,Borden,S0K 0N0,52.4,-107.2333333
-6,Saskatoon,7,Family Practice Unit - Saskatoon,Primary Health Centre,7,,103 Hospital Dr,Saskatoon,S7N 0W8,52.11666667,-106.6333333
-6,Saskatoon,18,Nutana Integrated School Services*,Primary Health Centre,7,,411-11th St. E.,Saskatoon,S7N 0E9,52.11666667,-106.6333333
-6,Saskatoon,16,Primary Health Centre-Southeast,Primary Health Centre,7,,100-2501 Louise Street,Saskatoon,S7J 3M1,52.11666667,-106.6333333
-6,Saskatoon,17,Student Health Centre,Primary Health Centre,7,,91 Campus Drive,Saskatoon,S7N 5E8,52.11666667,-106.6333333
-6,Saskatoon,18a,White Buffalo Youth Lodge,Primary Health Centre,7,,602-20th Street West,Saskatoon,S7M 0X8,52.11666667,-106.6333333
-7,Heartland,9,Biggar Hospital,Hospital,1,Community Hospital,501 1st Ave. W.,Biggar,S0K 0M0,52.06666667,-108
-7,Heartland,110,Outlook & District Health Centre,Hospital,1,Community Hospital,500 Semple Street,Outlook,S0L 2N0,51.5,-107.05
-7,Heartland,26,Davidson + District Health Centre,Hospital w/ Special Care Home,2,Community Hospital,900 Government Road,Davidson,S0G 1A0,51.26666667,-105.9833333
-7,Heartland,64/21126,Kerrobert Integrated Health Facility,Hospital w/ Special Care Home,2,Community Hospital,635 Alberta Avenue,Kerrobert,S0L 1R0,51.91666667,-109.1333333
-7,Heartland,66/20132,Kindersley Integrated Health Facility,Hospital w/ Special Care Home,2,District Hospital,1003 1st Street W.,Kindersley,S0L 1S2,51.46666667,-109.1666667
-7,Heartland,133/19112,Rosetown & District Health Centre,Hospital w/ Special Care Home,2,Community Hospital,Highway 4 North,Rosetown,S0L 2V0,51.55,-108
-7,Heartland,156,Unity & District Health Centre,Hospital w/ Special Care Home,2,Community Hospital,Highway 14 N.,Unity,S0K 4L0,52.45,-109.1666667
-7,Heartland,6,Beechy Health Centre,Health Centre,3,,1st Avenue N.,Beechy,S0L 0C0,50.88333333,-107.3833333
-7,Heartland,32,Eatonia Health Care Centre,Health Centre,3,,205 2nd Avenue W.,Eatonia,S0L 0Y0,51.21666667,-109.3833333
-7,Heartland,28,Dinsmore Health Care Centre,Health Centre w/ Special Care Home,4,,1st Street E.,Dinsmore,S0L 0T0,51.33333333,-107.4333333
-7,Heartland,34/18119,Elrose Health Centre,Health Centre w/ Special Care Home,4,,505 Main Street,Elrose,S0L 0Z0,51.2,-108.0333333
-7,Heartland,37/18128,Eston Health Centre/Jubilee Lodge,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,822 Main Street,Eston,S0L 1A0,51.15,-108.75
-7,Heartland,69,Kyle & District Health Centre,Health Centre w/ Special Care Home,4,,208 3rd Avenue E.,Kyle,S0L 1T0,50.83333333,-108.0333333
-7,Heartland,82,Lucky Lake Health Centre,Health Centre w/ Special Care Home,4,,1st Avenue,Lucky Lake,S0L 1Z0,50.98333333,-107.1333333
-7,Heartland,85,St. Joseph's Health Centre,Health Centre w/ Special Care Home,4,,Highway 31 N.,Macklin,S0L 2C0,52.33333333,-109.9333333
-7,Heartland,171/23131,Wilkie and District Health Centre/Poplar Courts,Health Centre w/ Special Care Home,4,ER Health Centre Site,304 7th Ave. E.,Wilkie,S0K 4W0,52.41666667,-108.7
-7,Heartland,22110,Diamond Lodge Co. Ltd.,Special Care Home,5,,402 2nd Ave. W.,Biggar,S0K 0M0,52.06666667,-108
-7,Heartland,17116,Outlook & District Pioneer Home,Special Care Home,5,,500 Semple St.,Outlook,S0L 2N0,51.5,-107.05
-7,Heartland,19121,Wheatbelt Centennial Lodge,Special Care Home,5,,301 Centennial Dr.,Rosetown,S0L 2V0,51.55,-108
-7,Heartland,3,Beechy,Primary Health Centre,7,,P.O. Box 40,Beechy,S0L 0C0,50.88333333,-107.3833333
-7,Heartland,5,Eatonia,Primary Health Centre,7,,P.O. Box 400,Eatonia,S0L 0Y0,51.21666667,-109.3833333
-7,Heartland,11,Kyle,Primary Health Centre,7,,P.O. Box 99,Kyle,S0L 1T0,50.83333333,-108.0333333
-7,Heartland,14,Lucky Lake,Primary Health Centre,7,,P.O. Box 250,Lucky Lake,S0L 1Z0,50.98333333,-107.1333333
-8,Kelsey Trail,63,Kelvington Hospital,Hospital,1,Community Hospital,512 1st Avenue S.,Kelvington,S0A 1W0,52.16666667,-103.5333333
-8,Kelsey Trail,91,Melfort Hospital,Hospital,1,District Hospital,505 Broadway Avenue N.,Melfort,S0E 1A0,52.86666667,-104.6166667
-8,Kelsey Trail,104,Nipawin Hospital,Hospital,1,District Hospital,800 6th Street E.,Nipawin,S0E 1E0,53.36666667,-104
-8,Kelsey Trail,116,Porcupine Carragana Hospital,Hospital,1,Community Hospital,1 Windsor Avenue,Porcupine Plain,S0E 1H0,52.6,-103.25
-8,Kelsey Trail,153,Tisdale Hospital,Hospital,1,District Hospital,2010 110th Avenue W.,Tisdale,S0E 1T0,52.85,-104.05
-8,Kelsey Trail,53/33112,Hudson Bay Health Care Facility,Hospital w/ Special Care Home,2,Community Hospital,614 Prince Street,Hudson Bay,S0E 0Y0,52.85,-102.3833333
-8,Kelsey Trail,211,Cumberland House Health Centre,Health Centre,3,,2nd Avenue,Cumberland House,S0E 0S0,53.96666667,-102.2666667
-8,Kelsey Trail,134,Rose Valley Health Centre,Health Centre,3,,119 McCallum Street,Rose Valley,S0E 1M0,52.3,-103.8166667
-8,Kelsey Trail,146,Smeaton Health Centre,Health Centre,3,,2nd Avenue,Smeaton,S0J 2J0,53.5,-104.8166667
-8,Kelsey Trail,17,Carrot River Health Centre,Health Centre w/ Special Care Home,4,,4151 1st Avenue W.,Carrot River,S0E 0L0,53.28333333,-103.5833333
-8,Kelsey Trail,1/33149,Arborfield & District Health Care Centre,Health Centre w/ Special Care Home,4,,5th Avenue,Arborfield,S0E 0A0,53.1,-103.65
-8,Kelsey Trail,31116,Pasquia Special Care Home,Special Care Home,5,,4101 1st Avenue W.,Carrot River,S0E 1E0,53.28333333,-103.5833333
-8,Kelsey Trail,42118,Kelvindell Lodge,Special Care Home,5,,701 6th Avenue W.,Kelvington,S0A 1W0,52.16666667,-103.5333333
-8,Kelsey Trail,32146,Parkland Place Care Centre,Special Care Home,5,,402 Bermister Avenue E.,Melfort,S0E 1A0,52.86666667,-104.6166667
-8,Kelsey Trail,31125,Pineview Lodge,Special Care Home,5,,400 6th Avenue E.,Nipawin,S0E 1E0,53.36666667,-104
-8,Kelsey Trail,33121,Red Deer Nursing Home,Special Care Home,5,,330 Oak Street,Porcupine Plain,S0E 1H0,52.6,-103.25
-8,Kelsey Trail,32155,Chateau Providence Inc.,Special Care Home,5,,501 1st Avenue,St. Brieux,S0K 3V0,,
-8,Kelsey Trail,33158,Newmarket Manor,Special Care Home,5,,2001Newmarket Drive,Tisdale,S0E 1T0,52.85,-104.05
-8,Kelsey Trail,33130,Sasko Park Lodge,Special Care Home,5,,806 97th Avenue,Tisdale,S0E 1T0,52.85,-104.05
-8,Kelsey Trail,1a,Arborfield,Primary Health Centre,7,,P.O. Box 160,Arborfield,S0E 0A0,53.1,-103.65
-8,Kelsey Trail,1a,Carrot River*,Primary Health Centre,7,,P.O Box 640,Carrot River,S0E 0L0,53.28333333,-103.5833333
-8,Kelsey Trail,10,Hudson Bay,Primary Health Centre,7,,P.O. Box 1170,Hudson Bay,S0E 0Y0,52.85,-102.3833333
-8,Kelsey Trail,19,Naicam,Primary Health Centre,7,,PO Box 489,Naicam,S0K 2Z0,52.41666667,-104.5
-8,Kelsey Trail,19b,St. Brieux*,Primary Health Centre,7,,501 1st Ave,St. Brieux,S0K 3V0,,
-8,Kelsey Trail,19c,Zenon Park *,Primary Health Centre,7,,,Zenon Park,S0E 1W0,53.06666667,-103.75
-9,Prince Albert Parkland,120,Victoria Hospital,Hospital,1,Regional Hospital,1200 24th Street W.,Prince Albert,S6V 5T4,53.2,-105.7666667
-9,Prince Albert Parkland,145,Shellbroook & District Hospital,Hospital,1,Community Hospital,,Shellbrook,S0J 2E0,53.21666667,-106.4
-9,Prince Albert Parkland,148,Spiritwood & District Health Complex,Hospital w/ Special Care Home,2,Community Hospital,,Spiritwood,S0J 2M0,53.36666667,-107.5166667
-9,Prince Albert Parkland,10,Big River Health Centre,Hospital w/ Special Care Home,2,Community Hospital,,Big River,S0J 0E0,53.83333333,-107.0166667
-9,Prince Albert Parkland,67,Kinistino Health Centre,Health Centre,3,,111 Meyers Avenue,Kinistino,S0J 1H0,52.95,-105.0333333
-9,Prince Albert Parkland,50/29111,Hafford Special Care Centre and Primary Care Site,Health Centre w/ Special Care Home,4,Hospital operating as Health Centre,,Hafford,S0J 1A0,52.71666667,-107.35
-9,Prince Albert Parkland,11/28118,Birch Hills Health Facility/Birchview Nursing Home,Health Centre w/ Special Care Home,4,,7 Wilson Street,Birch Hills,S0J 0G0,52.98333333,-105.4166667
-9,Prince Albert Parkland,77,Evergreen Health Centre,Health Centre w/ Special Care Home,4,,,Leoville,S0J 1N0,53.63333333,-107.55
-9,Prince Albert Parkland,27142,Whispering Pine Place,Special Care Home,5,,,Canwood,S0J 0K0,53.36666667,-106.6
-9,Prince Albert Parkland,32119,Jubilee Lodge,Special Care Home,5,,410 Meyers Avenue,Kinistino,S0J 1H0,52.95,-105.0333333
-9,Prince Albert Parkland,27151,Wheatland Lodge,Special Care Home,5,,,Leask,S0J 1M0,53.01666667,-106.75
-9,Prince Albert Parkland,28127,Herb Bassett Home,Special Care Home,5,,1220 25th Street W.,Prince Albert,S6V 7P7,53.2,-105.7666667
-9,Prince Albert Parkland,28136,Mont. St. Joseph Home Inc.,Special Care Home,5,,777 28th Street W.,Prince Albert,S6V 8C2,53.2,-105.7666667
-9,Prince Albert Parkland,28145,PineView Terrace Lodge,Special Care Home,5,,701 13th Street W.,Prince Albert,S6V 3H2,53.2,-105.7666667
-9,Prince Albert Parkland,27115,Parkland Terrace,Special Care Home,5,,,Shellbrook,S0J 2E0,53.21666667,-106.4
-9,Prince Albert Parkland,,Spiritwood & District Health Complex,Special Care Home,5,,,Spiritwood,S0J 2M0,53.36666667,-107.5166667
-9,Prince Albert Parkland,9b,Blaine Lake *,Primary Health Centre,7,,P.O. Box 216,Blaine Lake,S0J-0J0,52.83333333,-106.9
-9,Prince Albert Parkland,9a,Hafford,Primary Health Centre,7,,P.O. Box 100,Hafford,S0J 1A0,52.71666667,-107.35
-10,Prairie North,80,Lloydminster Hospital,Hospital,1,Regional Hospital,3820 43rd Ave.,Lloydminster,S9V 1Y5,53.28333333,-110
-10,Prairie North,86,Maidstone Hospital,Hospital,1,Community Hospital,,Maidstone,S0M 1M0,53.1,-109.2833333
-10,Prairie North,90,Northwest Health Facility,Hospital,1,District Hospital,#1 - 711 Centre Street,Meadow Lake,S9X 1E6,54.13333333,-108.4333333
-10,Prairie North,107,Battlefords Union Hospital,Hospital,1,Regional Hospital,1092 107th Street,North Battleford,S9A 1Z1,52.78333333,-108.2833333
-10,Prairie North,81,Loon Lake Union Hospital & Special Care Home,Hospital w/ Special Care Home,2,Community Hospital,510 2nd Avenue,Loon Lake,S0M 1L0,54.03333333,-109.1666667
-10,Prairie North,154/25146,Riverside Health Complex,Hospital w/ Special Care Home,2,Community Hospital,,Turtleford,S0M 2Y0,53.38333333,-108.95
-10,Prairie North,114,Paradise Hill Health Centre,Health Centre,3,,,Paradise Hill,S0M 2G0,53.53333333,-109.6333333
-10,Prairie North,102,Manitou Health Centre,Health Centre,3,,,Neilburg,S0M 2C0,52.83333333,-109.6333333
-10,Prairie North,24/25155,Cutknife Health Complex,Health Centre w/ Special Care Home,4,,,Cutknife,S0M 0N0,,
-10,Prairie North,33,Lady Minto Health Care Centre,Health Centre w/ Special Care Home,4,,1513 1st Ave S.,Edam,S0M 0V0,53.18333333,-108.7666667
-10,Prairie North,45,L. Gervais Memorial Health Centre,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,Main Street,Goodsoil,S0M 1A0,54.4,-109.2166667
-10,Prairie North,138/25137,St. Walburg Health Complex,Health Centre w/ Special Care Home,4,24/7 ER Health Centre Site,,St. Walburg,S0M 2T0,,
-10,Prairie North,24116,Battlefords District Care Centre,Special Care Home,5,,1308 Winnipeg Street,Battleford,S0M 0E0,52.73333333,-108.3166667
-10,Prairie North,,Dr. Cooke Extended Care Centre,Special Care Home,5,,3915 56th Avenue,Lloydminster,T9Y 0Z7,53.28333333,-110
-10,Prairie North,25119,Jubilee Home,Special Care Home,5,,3902 45th Ave.,Lloydminster,S9V 1Z2,53.28333333,-110
-10,Prairie North,25128,Pine Island Lodge,Special Care Home,5,,,Maidstone,S0M 1M0,53.1,-109.2833333
-10,Prairie North,26112,Northland Pioneers Lodge,Special Care Home,5,,515 3rd Street W.,Meadow Lake,S9Z 1L1,54.13333333,-108.4333333
-10,Prairie North,24125,River Heights Lodge,Special Care Home,5,,2001 99th Street,North Battleford,S9A 0S3,52.78333333,-108.2833333
-10,Prairie North,24134,Villa Pascal (Societe Joseph Breton Inc.),Special Care Home,5,,1301 113th Street,North Battleford,S9A 3K1,52.78333333,-108.2833333
-10,Prairie North,13,Loon Lake,Primary Health Centre,7,,P.O. Box 69,Loon Lake,S0M 1L0,54.03333333,-109.1666667
-10,Prairie North,2,Battlefords,Primary Health Centre,7,,1192-101st Street,North Battleford,S9A 3W2,52.78333333,-108.2833333
-11,Mamawetan Churchill River,83,La Ronge Health Centre,Hospital w/ Special Care Home,2,Northern Hospital,227 Blacklund Street,La Ronge,S0J 1L0,55.1,-105.2833333
-11,Mamawetan Churchill River,214,Pinehouse Health Centre,Health Centre,3,,,Pinehouse,S0J 2B0,,
-11,Mamawetan Churchill River,212,Sandy Bay Health Centre,Health Centre,3,,,Sandy Bay,S0P 0G0,55.51666667,-102.3166667
-12,Keewatin Yatthé,56,St. Joseph's Hospital,Hospital,1,Northern Hospital,,Ile a la Crosse,S0M 1C0,,
-12,Keewatin Yatthé,301,La Loche Health Centre,Hospital w/ Special Care Home,2,Northern Hospital,,La Loche,S0M 1G0,56.48333333,-109.4333333
-12,Keewatin Yatthé,215,Beauval Health Centre,Health Centre,3,,,Beauval,S0M 0G0,55.15,-107.6166667
-12,Keewatin Yatthé,210,Buffalo Narrows Health Centre,Health Centre,3,,,Buffalo Narrows,S0M 0J0,55.85,-108.4833333
-12,Keewatin Yatthé,12,La Ronge,Primary Health Centre,7,,P.O. Box 240,La Ronge,S0J 1L0,55.1,-105.2833333
-13,Athabasca Health Authority,213,Yutthé Dene Nakóhódí Health Centre,Hospital,1,Northern Hospital,,Black Lake,S0J 0H0,,
-13,Athabasca Health Authority,157,Uranium City Municipal Hospital,Health Centre,3,Hospital operating as Health Centre,Baska Road,Uranium City,S0J 2W0,59.56666667,-108.6166667
+RHA 	RHA Name	Facility ID 	Facility Name	Facility Type	Type_ID	Hospital Designation	Street Address	Location	Postal Code	Lat_DD	Long_DD
+4	Regina Qu'Appelle		Al Ritchie Health Action Centre	Health Centre	3		325 Victoria Avenue	Regina	S4N 0P5	50.45	-104.6166667
+4	Regina Qu'Appelle	401	All Nations Healing Hospital	Hospital	1	Community Hospital	760 Broadway Street W.	Fort Qu'Appelle	S0G 1S0		
+5	Sunrise	36111	Anderson Lodge	Special Care Home	5		150 Independent Street	Yorkton	S3N 0S7	51.21666667	-102.4666667
+8	Kelsey Trail	1a	Arborfield	Primary Health Centre	7		P.O. Box 160	Arborfield	S0E 0A0	53.1	-103.65
+8	Kelsey Trail	1/33149	Arborfield & District Health Care Centre	Health Centre w/ Special Care Home	4		5th Avenue	Arborfield	S0E 0A0	53.1	-103.65
+1	Sun Country	2	Arcola Health Centre	Hospital	1	Community Hospital	607 Prairie Avenue	Arcola	S0C 0G0	49.63333333	-102.4833333
+2	Five Hills	7117	Assiniboia Pioneer Lodge	Special Care Home	5		800 1st St. W.	Assiniboia	S0H 0B0	49.63333333	-105.9833333
+2	Five Hills	3	Assiniboia Union Hospital	Hospital	1	Community Hospital	501 6th Avenue E.	Assiniboia	S0H 0B0	49.63333333	-105.9833333
+4	Regina Qu'Appelle	5/39110	Balcarres Integrated Care Centre	Hospital w/ Special Care Home	2	Community Hospital	100 South Elgin Street	Balcarres	S0G 0C0	50.8	-103.55
+10	Prairie North	2	Battlefords	Primary Health Centre	7		1192-101st Street	North Battleford	S9A 3W2	52.78333333	-108.2833333
+10	Prairie North	24116	Battlefords District Care Centre	Special Care Home	5		1308 Winnipeg Street	Battleford	S0M 0E0	52.73333333	-108.3166667
+10	Prairie North	107	Battlefords Union Hospital	Hospital	1	Regional Hospital	1092 107th Street	North Battleford	S9A 1Z1	52.78333333	-108.2833333
+12	Keewatin Yatthe	215	Beauval Health Centre	Health Centre	3			Beauval	S0M 0G0	55.15	-107.6166667
+7	Heartland	3	Beechy	Primary Health Centre	7		P.O. Box 40	Beechy	S0L 0C0	50.88333333	-107.3833333
+7	Heartland	6	Beechy Health Centre	Health Centre	3		1st Avenue N.	Beechy	S0L 0C0	50.88333333	-107.3833333
+1	Sun Country	7/7135	Bengough Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	400 2nd Street E.	Bengough	S0C 0K0	49.4	-105.1333333
+6	Saskatoon	44132	Bethany Pioneer Village Inc.	Special Care Home	5			Middle Lake	S0K 2X0	52.48333333	-105.3
+9	Prince Albert Parkland	10	Big River Health Centre	Hospital w/ Special Care Home	2	Community Hospital		Big River	S0J 0E0	53.83333333	-107.0166667
+7	Heartland	9	Biggar Hospital	Hospital	1	Community Hospital	501 1st Ave. W.	Biggar	S0K 0M0	52.06666667	-108
+9	Prince Albert Parkland	11/28118	Birch Hills Health Facility/Birchview Nursing Home	Health Centre w/ Special Care Home	4		7 Wilson Street	Birch Hills	S0J 0G0	52.98333333	-105.4166667
+9	Prince Albert Parkland	9b	Blaine Lake *	Primary Health Centre	7		P.O. Box 216	Blaine Lake	S0J-0J0	52.83333333	-106.9
+6	Saskatoon	4	Borden	Primary Health Centre	7		308 Shepard Street	Borden	S0K 0N0	52.4	-107.2333333
+6	Saskatoon	12	Borden Community Health Centre	Health Centre	3			Borden	S0K 0N0	52.4	-107.2333333
+3	Cypress	19	Border Health Centre	Health Centre	3	ER Health Centre Site	301 1st Street W.	Climax	S0N 0N0	49.2	-108.3833333
+4	Regina Qu'Appelle	13114	Broadview and District Centennial Lodge Inc.	Special Care Home	5		310 Calgary St.	Broadview	S0G 0K0	50.36666667	-102.5833333
+4	Regina Qu'Appelle	13	Broadview Hospital	Hospital	1	Community Hospital	901 Nina St.	Broadview	S0G 0K0	50.36666667	-102.5833333
+12	Keewatin Yatthe	210	Buffalo Narrows Health Centre	Health Centre	3			Buffalo Narrows	S0M 0J0	55.85	-108.4833333
+5	Sunrise	35118	Canora Gateway Lodge	Special Care Home	5		212 Centre Ave E.	Canora	S0A 0L0	51.63333333	-102.4333333
+5	Sunrise	16	Canora Hospital	Hospital	1	Community Hospital	1219 Main Street	Canora	S0A 0L0	51.63333333	-102.4333333
+8	Kelsey Trail	17	Carrot River Health Centre	Health Centre w/ Special Care Home	4		4151 1st Avenue W.	Carrot River	S0E 0L0	53.28333333	-103.5833333
+8	Kelsey Trail	1a	Carrot River*	Primary Health Centre	7		P.O Box 640	Carrot River	S0E 0L0	53.28333333	-103.5833333
+5	Sunrise	37114	Centennial Special Care Home	Special Care Home	5		300 James Street	Esterhazy	S0A 0X0	50.65	-102.0833333
+2	Five Hills	18/6150	Central Butte Regency Hospital	Hospital w/ Special Care Home	2	Community Hospital	601 Canada Street	Central Butte	S0H 0T0	50.8	-106.5166667
+6	Saskatoon	45135	Central Haven Special Care Home Inc.	Special Care Home	5		1020 Avenue I N.	Saskatoon	S7L 2H7	52.11666667	-106.6333333
+6	Saskatoon	43111	Central Parkland Lodge	Special Care Home	5		36 Downing Drive E.	Lanigan	S0K 2M0	51.85	-105.0333333
+8	Kelsey Trail	32155	Chateau Providence Inc.	Special Care Home	5		501 1st Avenue	St. Brieux	S0K 3V0		
+6	Saskatoon	45311	Circle Drive Special Care Home Inc.	Special Care Home	5		3055 Preston Avenue S.	Saskatoon	S7T 1C3	52.11666667	-106.6333333
+1	Sun Country	20	Coronach Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	240 Souris Avenue E.	Coronach	S0H 0Z0	49.11666667	-105.5166667
+2	Five Hills	21	Craik & District Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site		Craik	S0G 0V0	51.05	-105.8166667
+6	Saskatoon	22/30113	Cudworth Health Centre/Nursing Home	Health Centre w/ Special Care Home	4		607 4th Avenue	Cudworth	S0K 1B0	52.5	-105.7333333
+8	Kelsey Trail	211	Cumberland House Health Centre	Health Centre	3		2nd Avenue	Cumberland House	S0E 0S0	53.96666667	-102.2666667
+4	Regina Qu'Appelle	40112	Cupar and District Nursing Home Inc.	Special Care Home	5			Cupar	S0G 0Y0	50.95	-104.2166667
+4	Regina Qu'Appelle	23	Cupar Health Centre	Health Centre	3			Cupar	S0G 0Y0	50.95	-104.2166667
+10	Prairie North	24/25155	Cutknife Health Complex	Health Centre w/ Special Care Home	4			Cutknife	S0M 0N0		
+3	Cypress	2121	Cypress Lodge Nursing Home	Special Care Home	5		Highway 21 S.	Maple Creek	S0N 1N0	49.91666667	-109.4833333
+3	Cypress	149	Cypress Regional Hospital	Hospital	1	Regional Hospital	499 4th Avenue N.E.	Swift Current	S9H 2K1	50.28333333	-107.8
+7	Heartland	26	Davidson + District Health Centre	Hospital w/ Special Care Home	2	Community Hospital	900 Government Road	Davidson	S0G 1A0	51.26666667	-105.9833333
+6	Saskatoon	612	Delisle Community Health and Social Centre	Health Centre	3			Delisle	S0L 0P0	51.91666667	-107.1333333
+7	Heartland	22110	Diamond Lodge Co. Ltd.	Special Care Home	5		402 2nd Ave. W.	Biggar	S0K 0M0	52.06666667	-108
+7	Heartland	28	Dinsmore Health Care Centre	Health Centre w/ Special Care Home	4		1st Street E.	Dinsmore	S0L 0T0	51.33333333	-107.4333333
+10	Prairie North		Dr. Cooke Extended Care Centre	Special Care Home	5		3915 56th Avenue	Lloydminster	T9Y 0Z7	53.28333333	-110
+6	Saskatoon		Duck Lake & District Nursing Home Inc. Goodwill Manor	Special Care Home	5		Victoria Avenue	Duck Lake	S0K 1J0	52.81666667	-106.2333333
+3	Cypress	31/4118	Eastend Wolf Willow Health Centre	Health Centre w/ Special Care Home	4	ER Health Centre Site	555 Redcoat Drive	Eastend	S0N 0T0	49.51666667	-108.8166667
+7	Heartland	5	Eatonia	Primary Health Centre	7		P.O. Box 400	Eatonia	S0L 0Y0	51.21666667	-109.3833333
+7	Heartland	32	Eatonia Health Care Centre	Health Centre	3		205 2nd Avenue W.	Eatonia	S0L 0Y0	51.21666667	-109.3833333
+4	Regina Qu'Appelle	39129	Echo Lodge	Special Care Home	5		560 Broadway Street W.	Fort Qu'Appelle	S0G 1S0		
+7	Heartland	34/18119	Elrose Health Centre	Health Centre w/ Special Care Home	4		505 Main Street	Elrose	S0L 0Z0	51.2	-108.0333333
+1	Sun Country	9122	Estevan Regional Nursing Home	Special Care Home	5		1921 Wellock Road	Estevan	S4A 2V6	49.13333333	-102.9833333
+7	Heartland	37/18128	Eston Health Centre/Jubilee Lodge	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	822 Main Street	Eston	S0L 1A0	51.15	-108.75
+9	Prince Albert Parkland	77	Evergreen Health Centre	Health Centre w/ Special Care Home	4			Leoville	S0J 1N0	53.63333333	-107.55
+6	Saskatoon	45171	Extendicare	Special Care Home	5		2225 Preston Avenue	Saskatoon	S7J 2E7	52.11666667	-106.6333333
+4	Regina Qu'Appelle	15129	Extendicare Elmview	Special Care Home	5		4125 Rae Street	Regina	S4S 3A5	50.45	-104.6166667
+2	Five Hills	6114	Extendicare Ltd.	Special Care Home	5		1151 Coteau Street W.	Moose Jaw	S6H 5G5	50.4	-105.5333333
+4	Regina Qu'Appelle	15110	Extendicare Parkside	Special Care Home	5		4540 Rae Street	Regina	S4S 3B6	50.45	-104.6166667
+4	Regina Qu'Appelle	15138	Extendicare Sunset	Special Care Home	5		260 Sunset Drive	Regina	S4S2S3	50.45	-104.6166667
+4	Regina Qu'Appelle	6	Family Practice Unit - Regina	Primary Health Centre	7		1440 14th Avenue	Regina	S4P 0W5	50.45	-104.6166667
+6	Saskatoon	7	Family Practice Unit - Saskatoon	Primary Health Centre	7		103 Hospital Dr	Saskatoon	S7N 0W8	52.11666667	-106.6333333
+1	Sun Country	40	Fillmore Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	100 Main St.	Fillmore	S0C 1N0	49.88333333	-103.4333333
+5	Sunrise	41	Foam Lake Health Centre	Health Centre	3		715 Saskatchewan Avenue E.	Foam Lake	S0A 1A0		
+5	Sunrise	41115	Foam Lake Jubilee Home	Special Care Home	5		421 Alberta Avenue E.	Foam Lake	S0A 1A0		
+4	Regina Qu'Appelle	8	Four Directions	Primary Health Centre	7		3510 5th Avenue	Regina	S4T 0M2	50.45	-104.6166667
+4	Regina Qu'Appelle		Four Directions Community Health Centre	Health Centre	3		3510 5th Avenue	Regina	S4T 0M2	50.45	-104.6166667
+1	Sun Country	44	Gainsborough & Area Health Centre	Health Centre w/ Special Care Home	4		312 Stephens Street	Gainsborough	S0G 1S0	49.16666667	-101.45
+1	Sun Country	111	Galloway Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	917 Tupper Street	Oxbow	S0C 2B0	49.23333333	-102.1666667
+4	Regina Qu'Appelle	14117	Golden Prairie Home Ltd.	Special Care Home	5		916 Eden Street	Indian Head	S0G 2K0	50.53333333	-103.6666667
+2	Five Hills	132	Grasslands Health Centre	Health Centre w/ Special Care Home	4		1006 Hwy. 2	Rockglen	S0H 3R0	49.18333333	-105.95
+4	Regina Qu'Appelle	13123	Grenfell and District Pioneer Home	Special Care Home	5		710 Regina Avenue	Grenfell	S0G 2B0	50.41666667	-102.9333333
+4	Regina Qu'Appelle	47	Grenfell Health Centre	Health Centre	3		721 Stella Street	Grenfell	S0G 2B0	50.41666667	-102.9333333
+3	Cypress	48/2112	Gull Lake Special Care Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	751 Grey Street	Gull Lake	S0N 1A0	50.1	-108.4833333
+9	Prince Albert Parkland	9a	Hafford	Primary Health Centre	7		P.O. Box 100	Hafford	S0J 1A0	52.71666667	-107.35
+9	Prince Albert Parkland	50/29111	Hafford Special Care Centre and Primary Care Site	Health Centre w/ Special Care Home	4	Hospital operating as Health Centre		Hafford	S0J 1A0	52.71666667	-107.35
+9	Prince Albert Parkland	28127	Herb Bassett Home	Special Care Home	5		1220 25th Street W.	Prince Albert	S6V 7P7	53.2	-105.7666667
+3	Cypress	51	Herbert Morse Hospital	Hospital	1	Community Hospital	303 Brownlee Street	Herbert	S0H 2A0	50.43333333	-107.2166667
+3	Cypress	3124	Herbert Nursing Home Inc.	Special Care Home	5		405 Herbert Avenue	Herbert	S0H 2A0	50.43333333	-107.2166667
+3	Cypress	614	Hodgeville Health Centre	Health Centre	3		Main Street	Hodgeville	S0H 2B0	50.11666667	-106.9666667
+3	Cypress	20b	Hodgeville*	Primary Health Centre	7		Main Street  PO Box 232	Hodgeville	S0H 2B0	50.11666667	-106.9666667
+8	Kelsey Trail	10	Hudson Bay	Primary Health Centre	7		P.O. Box 1170	Hudson Bay	S0E 0Y0	52.85	-102.3833333
+8	Kelsey Trail	53/33112	Hudson Bay Health Care Facility	Hospital w/ Special Care Home	2	Community Hospital	614 Prince Street	Hudson Bay	S0E 0Y0	52.85	-102.3833333
+6	Saskatoon	54	Humboldt District Health Complex	Hospital	1	District Hospital	1210 9th Street N.	Humboldt	S0K 2A0	52.2	-105.1166667
+4	Regina Qu'Appelle	58	Indian Head Hospital	Hospital	1	Community Hospital	300 Hospital St.	Indian Head	S0G 2K0	50.53333333	-103.6666667
+5	Sunrise	59/35127	Invermay Health Centre/Gateway Lodge	Health Centre w/ Special Care Home	4			Invermay	S0A 1M0	51.8	-103.15
+5	Sunrise	60/40121	Ituna Pioneer Health Care Centre	Health Centre w/ Special Care Home	4		320 5th Avenue E.	Ituna	S0A 1N0	51.16666667	-103.5
+10	Prairie North	25119	Jubilee Home	Special Care Home	5		3902 45th Ave.	Lloydminster	S9V 1Z2	53.28333333	-110
+9	Prince Albert Parkland	32119	Jubilee Lodge	Special Care Home	5		410 Meyers Avenue	Kinistino	S0J 1H0	52.95	-105.0333333
+6	Saskatoon	45214	Jubilee Residences Inc. (Porteous)	Special Care Home	5		833 Avenue P N.	Saskatoon	S7L 2W5	52.11666667	-106.6333333
+6	Saskatoon	45223	Jubilee Residences Inc. (Stensrud)	Special Care Home	5		2202 McEown Avenue	Saskatoon	S7J 3L6	52.11666667	-106.6333333
+5	Sunrise	62/34115	Kamsack Hospital/Kamsack & District Nursing Home	Hospital w/ Special Care Home	2	Community Hospital	341 Stewart Street	Kamsack	S0A 1S0	51.56666667	-101.9
+8	Kelsey Trail	42118	Kelvindell Lodge	Special Care Home	5		701 6th Avenue W.	Kelvington	S0A 1W0	52.16666667	-103.5333333
+8	Kelsey Trail	63	Kelvington Hospital	Hospital	1	Community Hospital	512 1st Avenue S.	Kelvington	S0A 1W0	52.16666667	-103.5333333
+7	Heartland	64/21126	Kerrobert Integrated Health Facility	Hospital w/ Special Care Home	2	Community Hospital	635 Alberta Avenue	Kerrobert	S0L 1R0	51.91666667	-109.1333333
+2	Five Hills	65	Kincaid Health Centre	Health Centre	3		Municipal Road	Kincaid	S0H 2J0	49.66666667	-107
+7	Heartland	66/20132	Kindersley Integrated Health Facility	Hospital w/ Special Care Home	2	District Hospital	1003 1st Street W.	Kindersley	S0L 1S2	51.46666667	-109.1666667
+9	Prince Albert Parkland	67	Kinistino Health Centre	Health Centre	3		111 Meyers Avenue	Kinistino	S0J 1H0	52.95	-105.0333333
+1	Sun Country	68	Kipling Memorial Health Centre	Hospital	1	Community Hospital	803 1st Street	Kipling	S0G 2S0	50.1	-102.6333333
+7	Heartland	11	Kyle	Primary Health Centre	7		P.O. Box 99	Kyle	S0L 1T0	50.83333333	-108.0333333
+7	Heartland	69	Kyle & District Health Centre	Health Centre w/ Special Care Home	4		208 3rd Avenue E.	Kyle	S0L 1T0	50.83333333	-108.0333333
+10	Prairie North	45	L. Gervais Memorial Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	Main Street	Goodsoil	S0M 1A0	54.4	-109.2166667
+12	Keewatin Yatthe	301	La Loche Health Centre	Hospital w/ Special Care Home	2	Northern Hospital		La Loche	S0M 1G0	56.48333333	-109.4333333
+12	Keewatin Yatthe	12	La Ronge	Primary Health Centre	7		P.O. Box 240	La Ronge	S0J 1L0	55.1	-105.2833333
+11	Mamawetan Churchill River	83	La Ronge Health Centre	Hospital w/ Special Care Home	2	Northern Hospital	227 Blacklund Street	La Ronge	S0J 1L0	55.1	-105.2833333
+10	Prairie North	33	Lady Minto Health Care Centre	Health Centre w/ Special Care Home	4		1513 1st Ave S.	Edam	S0M 0V0	53.18333333	-108.7666667
+2	Five Hills	71	Lafleche & District Health Centre	Health Centre w/ Special Care Home	4		315 Main St.	Lafleche	S0H 2K0	49.71666667	-106.5833333
+4	Regina Qu'Appelle	113141	Lakeside Home	Special Care Home	5		701 Ouimet St.	Wolseley	S0G 5H0	50.41666667	-103.2666667
+5	Sunrise	36139	Lakeside Manor Care Home Inc.	Special Care Home	5		101 Crescent Lake Road	Saltcoats	S0A 3R0	51.03333333	-102.1666667
+6	Saskatoon	30122	Lakeview Pioneer Lodge Inc.	Special Care Home	5		400 1st Street N.	Wakaw	S0K 4P0	52.65	-105.7333333
+1	Sun Country	72	Lampman Community Health Centre	Health Centre w/ Special Care Home	4		309 2nd Avenue E.	Lampman	S0C 1N0	49.38333333	-102.75
+5	Sunrise	73/37123	Langenburg Health Complex	Health Centre w/ Special Care Home	4		200 Heritage Drive	Langenburg	S0A 2A0	50.85	-101.7166667
+6	Saskatoon	45126	Langham Senior Citizens Home	Special Care Home	5			Langham	S0K 2L0	52.36666667	-106.9666667
+6	Saskatoon	74	Lanigan Hospital	Hospital	1	Community Hospital	36 Downing Drive E.	Lanigan	S0K 2M0	51.85	-105.0333333
+6	Saskatoon	43120	Last Mountain Pioneer Home Inc.	Special Care Home	5		700 Prospect Avenue	Strasbourg	S0G 4V0	51.06666667	-104.95
+3	Cypress	76	Leader Hospital	Hospital	1	Community Hospital	423 Main Street E.	Leader	S0N 1H0	50.88333333	-109.55
+6	Saskatoon	683	Leroy Community Health & Social Centre	Health Centre	3		211 1st Avenue N.E.	Leroy	S0K 2P0	52	-104.7333333
+10	Prairie North	80	Lloydminster Hospital	Hospital	1	Regional Hospital	3820 43rd Ave.	Lloydminster	S9V 1Y5	53.28333333	-110
+4	Regina Qu'Appelle	57	Long Lake Valley Integrated Facility	Health Centre w/ Special Care Home	4			Imperial	S0G 2J0	51.35	-105.4333333
+10	Prairie North	13	Loon Lake	Primary Health Centre	7		P.O. Box 69	Loon Lake	S0M 1L0	54.03333333	-109.1666667
+10	Prairie North	81	Loon Lake Union Hospital & Special Care Home	Hospital w/ Special Care Home	2	Community Hospital	510 2nd Avenue	Loon Lake	S0M 1L0	54.03333333	-109.1666667
+7	Heartland	14	Lucky Lake	Primary Health Centre	7		P.O. Box 250	Lucky Lake	S0L 1Z0	50.98333333	-107.1333333
+7	Heartland	82	Lucky Lake Health Centre	Health Centre w/ Special Care Home	4		1st Avenue	Lucky Lake	S0L 1Z0	50.98333333	-107.1333333
+4	Regina Qu'Appelle	15217	Lumsden & District Heritage Home Inc.	Special Care Home	5			Lumsden	S0G 3C0	50.65	-104.8666667
+6	Saskatoon	45205	Lutheran Sunset Home	Special Care Home	5		1212 Osler Street	Saskatoon	S7N 0T9	52.11666667	-106.6333333
+10	Prairie North	86	Maidstone Hospital	Hospital	1	Community Hospital		Maidstone	S0M 1M0	53.1	-109.2833333
+1	Sun Country	93/8147	Mainprize Manor & Health Centre	Health Centre w/ Special Care Home	4		206 South Street	Midale	S0C 1S0	49.4	-103.4
+10	Prairie North	102	Manitou Health Centre	Health Centre	3			Neilburg	S0M 2C0	52.83333333	-109.6333333
+6	Saskatoon	16122	Manitou Lodge	Special Care Home	5		404 1st Street E.	Watrous	S0K 4T0	51.66666667	-105.4666667
+3	Cypress	88	Maple Creek Hospital	Hospital	1	Community Hospital	Highway 21 S.	Maple Creek	S0N 1N0	49.91666667	-109.4833333
+8	Kelsey Trail	91	Melfort Hospital	Hospital	1	District Hospital	505 Broadway Avenue N.	Melfort	S0E 1A0	52.86666667	-104.6166667
+6	Saskatoon	29139	Mennonite Nursing Home Inc.	Special Care Home	5		Highway 11 South	Rosthern	S0K 3R0	52.66666667	-106.3333333
+9	Prince Albert Parkland	28136	Mont. St. Joseph Home Inc.	Special Care Home	5		777 28th Street W.	Prince Albert	S6V 8C2	53.2	-105.7666667
+4	Regina Qu'Appelle	95	Montmartre Integrated Health Centre	Health Centre w/ Special Care Home	4		237 2nd Ave. E.	Montmartre	S0G 3M0	50.23333333	-103.45
+2	Five Hills	96	Moose Jaw Union Hospital	Hospital	1	Regional Hospital	455 Fairford Street E.	Moose Jaw	S6H 1H3	50.4	-105.5333333
+1	Sun Country	11118	Moose Mountain Lodge Company Inc.	Special Care Home	5		6th Street W.	Carlyle	S0C 0R0	49.63333333	-102.2666667
+4	Regina Qu'Appelle	99	Moosomin Hospital	Hospital	1	Community Hospital	320 Gertie St.	Moosomin	S0G 3N0	50.13333333	-101.6666667
+2	Five Hills	625	Mossbank Wellness Centre	Health Centre	3		3rd Ave. S.	Mossbank	S0H 3G0	49.93333333	-105.9666667
+8	Kelsey Trail	19	Naicam	Primary Health Centre	7		PO Box 489	Naicam	S0K 2Z0	52.41666667	-104.5
+1	Sun Country	11136	Newhope Pioneer Lodge	Special Care Home	5		123 Governmant Road	Stoughton	S0G 4T0	49.68333333	-103.0333333
+8	Kelsey Trail	33158	Newmarket Manor	Special Care Home	5		2001Newmarket Drive	Tisdale	S0E 1T0	52.85	-104.05
+8	Kelsey Trail	104	Nipawin Hospital	Hospital	1	District Hospital	800 6th Street E.	Nipawin	S0E 1E0	53.36666667	-104
+6	Saskatoon	105	Nokomis Health Centre/Puffer Special Care Home	Health Centre w/ Special Care Home	4		103 2nd Avenue E.	Nokomis	S0G 3R0	51.5	-105
+5	Sunrise	106/34133	Norquay Health Centre/Gateway Lodge	Health Centre w/ Special Care Home	4			Norquay	S0A 2V0	51.88333333	-102.0833333
+10	Prairie North	26112	Northland Pioneers Lodge	Special Care Home	5		515 3rd Street W.	Meadow Lake	S9Z 1L1	54.13333333	-108.4333333
+10	Prairie North	90	Northwest Health Facility	Hospital	1	District Hospital	#1 - 711 Centre Street	Meadow Lake	S9X 1E6	54.13333333	-108.4333333
+6	Saskatoon	18	Nutana Integrated School Services*	Primary Health Centre	7		411-11th St. E.	Saskatoon	S7N 0E9	52.11666667	-106.6333333
+6	Saskatoon	45232	Oliver Lodge	Special Care Home	5		1405 Faulkner Crescent	Saskatoon	S7L 3R5	52.11666667	-106.6333333
+7	Heartland	110	Outlook & District Health Centre	Hospital	1	Community Hospital	500 Semple Street	Outlook	S0L 2N0	51.5	-107.05
+7	Heartland	17116	Outlook & District Pioneer Home	Special Care Home	5		500 Semple St.	Outlook	S0L 2N0	51.5	-107.05
+1	Sun Country	113	Pangman Health Centre	Health Centre	3		211 Keeler Street	Pangman	S0C 2C0	49.65	-104.6666667
+10	Prairie North	114	Paradise Hill Health Centre	Health Centre	3			Paradise Hill	S0M 2G0	53.53333333	-109.6333333
+8	Kelsey Trail	32146	Parkland Place Care Centre	Special Care Home	5		402 Bermister Avenue E.	Melfort	S0E 1A0	52.86666667	-104.6166667
+9	Prince Albert Parkland	27115	Parkland Terrace	Special Care Home	5			Shellbrook	S0J 2E0	53.21666667	-106.4
+6	Saskatoon	45320	Parkridge Centre	Special Care Home	5		110 Gropper Avenue	Saskatoon	S7M 5N9	52.11666667	-106.6333333
+4	Regina Qu'Appelle	130	Pasqua Hospital	Hospital	1	Provincial Hospital	4101 Dewdney Avenue	Regina	S4T 1A5	50.45	-104.6166667
+8	Kelsey Trail	31116	Pasquia Special Care Home	Special Care Home	5		4101 1st Avenue W.	Carrot River	S0E 1E0	53.28333333	-103.5833333
+10	Prairie North	25128	Pine Island Lodge	Special Care Home	5			Maidstone	S0M 1M0	53.1	-109.2833333
+11	Mamawetan Churchill River	214	Pinehouse Health Centre	Health Centre	3			Pinehouse	S0J 2B0		
+8	Kelsey Trail	31125	Pineview Lodge	Special Care Home	5		400 6th Avenue E.	Nipawin	S0E 1E0	53.36666667	-104
+9	Prince Albert Parkland	28145	PineView Terrace Lodge	Special Care Home	5		701 13th Street W.	Prince Albert	S6V 3H2	53.2	-105.7666667
+2	Five Hills	6132	Pioneer Housing	Special Care Home	5		1000 Albert Street	Moose Jaw	S6H 2Y2	50.4	-105.5333333
+6	Saskatoon	42127	Pleasant View Care Home	Special Care Home	5		533 & 433 5th Street N.E.	Wadena	S0A 4J0	51.95	-103.8
+3	Cypress	115/4127	Ponteix Health Centre	Health Centre w/ Special Care Home	4	ER Health Centre Site	428 2nd Avenue	Ponteix	S0N 1Z0	49.75	-107.4833333
+8	Kelsey Trail	116	Porcupine Carragana Hospital	Hospital	1	Community Hospital	1 Windsor Avenue	Porcupine Plain	S0E 1H0	52.6	-103.25
+3	Cypress	15	Prairie Health Care Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	517 1st Street N.	Cabri	S0N 1A0	50.61666667	-108.4666667
+3	Cypress	3142	Prairie Pioneers Lodge	Special Care Home	5		302 Central Avenue S.	Swift Current	S9H 3G3	50.28333333	-107.8
+3	Cypress	87	Prairie View Health Centre	Health Centre w/ Special Care Home	4	ER Health Centre Site	241 1st Avenue	Mankota	S0H 2W0	49.41666667	-107.0666667
+5	Sunrise	117	Preeceville Hospital	Hospital w/ Special Care Home	2	Community Hospital	712 7th Street N.E.	Preeceville	S0A 1M0	51.95	-102.6666667
+6	Saskatoon	16	Primary Health Centre-Southeast	Primary Health Centre	7		100-2501 Louise Street	Saskatoon	S7J 3M1	52.11666667	-106.6333333
+2	Five Hills	6169	Providence Place	Special Care Home	5		100 2nd Avenue N.E.	Moose Jaw	S6H 1B8	50.4	-105.5333333
+4	Regina Qu'Appelle	15165	Qu'Appelle House	Special Care Home	5		1425 College Avenue	Regina	S4P 1B4	50.45	-104.6166667
+6	Saskatoon		Quill Lake Community Health & Social Centre	Health Centre	3		50 Main Street	Quill Lake	S0A 3E0	52.06666667	-104.25
+1	Sun Country	127/8110	Radville Marian Health Centre	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site	310 Railway Avenue	Radville	S0C 2G0	49.45	-104.2833333
+4	Regina Qu'Appelle	667	Raymore Community Health & Social Centre	Health Centre	3		806 2nd Avenue	Raymore	S0A 3J0	51.41666667	-104.5166667
+8	Kelsey Trail	33121	Red Deer Nursing Home	Special Care Home	5		330 Oak Street	Porcupine Plain	S0E 1H0	52.6	-103.25
+1	Sun Country	128/11127	Redvers Health Centre/Centennial Haven	Hospital w/ Special Care Home	2	Community Hospital	18 Eichhorst Street	Redvers	S0C 2H0	49.56666667	-101.7
+4	Regina Qu'Appelle	15	Regina Community Clinic	Primary Health Centre	7		1106 Winnipeg Street	Regina	S4R 1J6	50.45	-104.6166667
+4	Regina Qu'Appelle	129	Regina General Hospital	Hospital	1	Provincial Hospital	1440 14th Avenue	Regina	S4P 0W5	50.45	-104.6166667
+4	Regina Qu'Appelle	15174	Regina Lutheran Home	Special Care Home	5		1925 5th Avenue N.	Regina	S4R 7W1	50.45	-104.6166667
+4	Regina Qu'Appelle	15183	Regina Pioneer Village	Special Care Home	5		430 Pioneer Drive	Regina	S4T 6L8	50.45	-104.6166667
+10	Prairie North	24125	River Heights Lodge	Special Care Home	5		2001 99th Street	North Battleford	S9A 0S3	52.78333333	-108.2833333
+10	Prairie North	154/25146	Riverside Health Complex	Hospital w/ Special Care Home	2	Community Hospital		Turtleford	S0M 2Y0	53.38333333	-108.95
+8	Kelsey Trail	134	Rose Valley Health Centre	Health Centre	3		119 McCallum Street	Rose Valley	S0E 1M0	52.3	-103.8166667
+7	Heartland	133/19112	Rosetown & District Health Centre	Hospital w/ Special Care Home	2	Community Hospital	Highway 4 North	Rosetown	S0L 2V0	51.55	-108
+2	Five Hills	7126	Ross Payant Centennial Home	Special Care Home	5		300 Jubilee Pl.	Assiniboia	S0H 0B0	49.63333333	-105.9833333
+6	Saskatoon	135	Rosthern Hospital	Hospital	1	Community Hospital	2016 2nd Street	Rosthern	S0K 3R0	52.66666667	-106.3333333
+6	Saskatoon	142	Royal University Hospital	Hospital	1	Provincial Hospital	103 Hospital Drive	Saskatoon	S7N 0W8	52.11666667	-106.6333333
+11	Mamawetan Churchill River	212	Sandy Bay Health Centre	Health Centre	3			Sandy Bay	S0P 0G0	55.51666667	-102.3166667
+4	Regina Qu'Appelle	15208	Santa Maria Senior Citizens Home	Special Care Home	5		4215 Regina Avenue	Regina	S4S 0J5	50.45	-104.6166667
+6	Saskatoon	140	Saskatoon City Hospital	Hospital	1	Provincial Hospital	701 Queen Street	Saskatoon	S7K 0M7	52.11666667	-106.6333333
+6	Saskatoon	45278	Saskatoon Convalescent Home	Special Care Home	5		101 31st Street W.	Saskatoon	S7L 0P6	52.11666667	-106.6333333
+6	Saskatoon		Saskatoon Vetrans Home	Special Care Home	5		2109 Preston Avenue	Saskatoon	S7J 2E7	52.11666667	-106.6333333
+8	Kelsey Trail	33130	Sasko Park Lodge	Special Care Home	5		806 97th Avenue	Tisdale	S0E 1T0	52.85	-104.05
+3	Cypress	144/4145	Shaunavon Hospital and Care Centre	Hospital w/ Special Care Home	2	Community Hospital	660 4th Street E.	Shaunavon	S0N 2M0	49.65	-108.4166667
+9	Prince Albert Parkland	145	Shellbroook & District Hospital	Hospital	1	Community Hospital		Shellbrook	S0J 2E0	53.21666667	-106.4
+6	Saskatoon		Sherbrooke Community Centre	Special Care Home	5		410 Acadia Drive	Saskatoon	S7H 3V5	52.11666667	-106.6333333
+4	Regina Qu'Appelle	40130	Silver Heights Special Care Home	Special Care Home	5		402 McLean Street	Raymore	S0A 3J0	51.41666667	-104.5166667
+8	Kelsey Trail	146	Smeaton Health Centre	Health Centre	3		2nd Avenue	Smeaton	S0J 2J0	53.5	-104.8166667
+1	Sun Country	8156	Souris Valley Extended Care Centre	Special Care Home	5			Weyburn	S4H 2Z9	49.66666667	-103.85
+4	Regina Qu'Appelle		Southey Health Action Centre	Health Centre	3			Southey	S0G 4P0	50.93333333	-104.5
+6	Saskatoon	147	Spalding Community Health Centre	Health Centre	3		133 Centre Street	Spalding	S0K 4C0	52.33333333	-104.5
+9	Prince Albert Parkland	148	Spiritwood & District Health Complex	Hospital w/ Special Care Home	2	Community Hospital		Spiritwood	S0J 2M0	53.36666667	-107.5166667
+9	Prince Albert Parkland		Spiritwood & District Health Complex	Special Care Home	5			Spiritwood	S0J 2M0	53.36666667	-107.5166667
+6	Saskatoon	45117	Spruce Manor Special Care Home	Special Care Home	5			Dalmeny	S0K 1E0	52.33333333	-106.7666667
+6	Saskatoon	44114	St Mary's Villa	Special Care Home	5		1109 13th Street N.	Humboldt	S0K 2A0	52.2	-105.1166667
+6	Saskatoon	45241	St. Anne's Senior Citizens' Village	Special Care Home	5		2910 Louise Street	Saskatoon	S7J 3L8	52.11666667	-106.6333333
+5	Sunrise	35	St. Anthony's Hospital	Hospital	1	Community Hospital	216 Ancona Street	Esterhazy	S0A 0X0	50.65	-102.0833333
+8	Kelsey Trail	19b	St. Brieux*	Primary Health Centre	7		501 1st Ave	St. Brieux	S0K 3V0		
+7	Heartland	85	St. Joseph's Health Centre	Health Centre w/ Special Care Home	4		Highway 31 N.	Macklin	S0L 2C0	52.33333333	-109.9333333
+6	Saskatoon	45250	St. Joseph's Home for the Aged	Special Care Home	5		33 Valens Drive	Saskatoon	S7L 3S2	52.11666667	-106.6333333
+12	Keewatin Yatthe	56	St. Joseph's Hospital	Hospital	1	Northern Hospital		Ile a la Crosse	S0M 1C0		
+1	Sun Country	36	St. Joseph's Hospital	Hospital	1	District Hospital	1176 Nicholson Road	Estevan	S4A 2V6	49.13333333	-102.9833333
+2	Five Hills	46/5111	St. Joseph's Hospital / Foyer d' Youville	Hospital w/ Special Care Home	2	Community Hospital	216 Bettez Street	Gravelbourg	S0H 1X0	49.88333333	-106.55
+4	Regina Qu'Appelle	79	St. Joseph's Integrated Care Centre	Hospital w/ Special Care Home	2	Community Hospital	505 Westmoor Street	Lestock	S0A 2G0	51.31666667	-103.9833333
+5	Sunrise	38117	St. Paul Lutheran Home	Special Care Home	5		Heritage Drive	Melville	S0A 2P0	50.91666667	-102.8
+6	Saskatoon	141	St. Paul's Hospital	Hospital	1	Provincial Hospital	1702 20th Street W.	Saskatoon	S7M 0Z9	52.11666667	-106.6333333
+5	Sunrise	92	St. Peter's Hospital	Hospital	1	District Hospital	200 Heritage Drive	Melville	S0A 2P0	50.91666667	-102.8
+10	Prairie North	138/25137	St. Walburg Health Complex	Health Centre w/ Special Care Home	4	24/7 ER Health Centre Site		St. Walburg	S0M 2T0		
+6	Saskatoon	670	Strasbourg and District Health Centre	Health Centre	3		303 Edward Street	Strasbourg	S0G 4V0	51.06666667	-104.95
+6	Saskatoon	17	Student Health Centre	Primary Health Centre	7		91 Campus Drive	Saskatoon	S7N 5E8	52.11666667	-106.6333333
+6	Saskatoon	45296	Sunnyside Nursing Home	Special Care Home	5		2200 St. Henry Avenue	Saskatoon	S7M 0P5	52.11666667	-106.6333333
+3	Cypress	3133	Swift Current Care Centre	Special Care Home	5		700 Aberdeen Street E.	Swift Current	S9H 3E3	50.28333333	-107.8
+1	Sun Country	10115	The Border-Line Housing Company	Special Care Home	5		415 Spencer St.	Carnduff	S0C 0S0	49.16666667	-101.8
+4	Regina Qu'Appelle	12111	The Eastern Saskatchewan Pioneer Lodge	Special Care Home	5		506 Windover Avenue	Moosomin	S0G 3N0	50.13333333	-101.6666667
+4	Regina Qu'Appelle		The Eastern Saskatchewan Pioneer Lodge (Nursing Home)	Special Care Home	5		405 Windover Avenue	Moosomin	S0G 3N0	50.13333333	-101.6666667
+3	Cypress	3151	The Palliser Regional Care Centre	Special Care Home	5		440 Central Avenue S.	Swift Current	S9H 3G6	50.28333333	-107.8
+4	Regina Qu'Appelle	15192	The Salvation Army William Booth Special Care Home	Special Care Home	5		50 Angus Road	Regina	S4R 0J5	50.45	-104.6166667
+5	Sunrise	152	Theodore Health Centre	Health Centre w/ Special Care Home	4		615 Anderson Avenue	Theodore	S0A 4C0	51.43333333	-102.9166667
+8	Kelsey Trail	153	Tisdale Hospital	Hospital	1	District Hospital	2010 110th Avenue W.	Tisdale	S0E 1T0	52.85	-104.05
+7	Heartland	156	Unity & District Health Centre	Hospital w/ Special Care Home	2	Community Hospital	Highway 14 N.	Unity	S0K 4L0	52.45	-109.1666667
+13	Athabasca Health Authority	157	Uranium City Municipal Hospital	Health Centre	3	Hospital operating as Health Centre	Baska Road	Uranium City	S0J 2W0	59.56666667	-108.6166667
+3	Cypress	20a	Vanguard	Primary Health Centre	7		P.O. Box 190	Vanguard	S0N 2V0	49.91666667	-107.3
+3	Cypress	160	Vanguard Health Centre	Health Centre	3		Division Street	Vanguard	S0N 2V0	49.91666667	-107.3
+9	Prince Albert Parkland	120	Victoria Hospital	Hospital	1	Regional Hospital	1200 24th Street W.	Prince Albert	S6V 5T4	53.2	-105.7666667
+10	Prairie North	24134	Villa Pascal (Societe Joseph Breton Inc.)	Special Care Home	5		1301 113th Street	North Battleford	S9A 3K1	52.78333333	-108.2833333
+6	Saskatoon	162	Wadena Hospital	Hospital	1	Community Hospital	533 & 433 5th Street N.E.	Wadena	S0A 4J0	51.95	-103.8
+6	Saskatoon	163	Wakaw Hospital	Hospital	1	Community Hospital	301 1st Street N.	Wakaw	S0K 4P0	52.65	-105.7333333
+6	Saskatoon	45302	Warman Mennonite Special Care Home	Special Care Home	5		405 3rd Avenue N.	Warman	S0K 4S0	52.31666667	-106.5666667
+4	Regina Qu'Appelle	501	Wascana Rehabilitation Centre	Rehabilitation Centre	6		2180 23rd Avenue	Regina	S4S 0A5	50.45	-104.6166667
+6	Saskatoon	165	Watrous Hospital	Hospital	1	Community Hospital	702 4th Street E.	Watrous	S0K 4T0	51.66666667	-105.4666667
+6	Saskatoon	166/42136	Watson Community Health Centre/Quill Plains Centennial Lodge	Health Centre w/ Special Care Home	4		402 2nd Street N.E.	Watson	S0K 4V0	52.11666667	-104.5166667
+1	Sun Country	167/11145	Wawota Memorial Health Centre/Deer View Lodge	Health Centre w/ Special Care Home	4	Hospital operating as Health Centre	609 Choo Foo Crescent	Wawota	S0G 5A0	49.9	-102.0333333
+3	Cypress	1119	Western Senior Citizens Lodge	Special Care Home	5		400 1st Street W.	Leader	S0N 1H0	50.88333333	-109.55
+1	Sun Country	168	Weyburn General Hospital	Hospital	1	District Hospital	201 1st Avenue N.E.	Weyburn	S4H 2Z9	49.66666667	-103.85
+1	Sun Country	8129	Weyburn Special Care Home	Special Care Home	5		704 5th Street N.E.	Weyburn	S4H 2Z9	49.66666667	-103.85
+7	Heartland	19121	Wheatbelt Centennial Lodge	Special Care Home	5		301 Centennial Dr.	Rosetown	S0L 2V0	51.55	-108
+9	Prince Albert Parkland	27151	Wheatland Lodge	Special Care Home	5			Leask	S0J 1M0	53.01666667	-106.75
+9	Prince Albert Parkland	27142	Whispering Pine Place	Special Care Home	5			Canwood	S0J 0K0	53.36666667	-106.6
+6	Saskatoon	18a	White Buffalo Youth Lodge	Primary Health Centre	7		602-20th Street West	Saskatoon	S7M 0X8	52.11666667	-106.6333333
+4	Regina Qu'Appelle	170/13150	Whitewood Community Health Centre	Health Centre w/ Special Care Home	4		921 Gambetta St.	Whitewood	S0G 5C0	50.33333333	-102.2666667
+7	Heartland	171/23131	Wilkie and District Health Centre/Poplar Courts	Health Centre w/ Special Care Home	4	ER Health Centre Site	304 7th Ave. E.	Wilkie	S0K 4W0	52.41666667	-108.7
+2	Five Hills	694	Willowbunch Health Centre	Health Centre	3		17 3rd St. E.	Willowbunch	S0H 4K0		
+1	Sun Country	13132	Willowdale Lodge	Special Care Home	5		128 4th Street S.	Kipling	S0G 2S0	50.1	-102.6333333
+4	Regina Qu'Appelle	173	Wolseley Memorial Hospital	Hospital	1	Community Hospital	801 Ouimet St.	Wolseley	S0G 5H0	50.41666667	-103.2666667
+6	Saskatoon	174	Wynyard Integrated Facility	Hospital w/ Special Care Home	2	Community Hospital	300 10th Street E.	Wynyard	S0A 4T0	51.76666667	-104.1833333
+5	Sunrise	36120	Yorkton and District Nursing Home Corp.	Special Care Home	5		200 Bradbrooke Drive	Yorkton	S3N 2K5	51.21666667	-102.4666667
+5	Sunrise	176	Yorkton Regional Health Centre	Hospital	1	Regional Hospital	270 Bradbrooke Drive	Yorkton	S3N 2K6	51.21666667	-102.4666667
+13	Athabasca Health Authority	213	Yutthe Dene Nakohodi Health Centre	Hospital	1	Northern Hospital		Black Lake	S0J 0H0		
+8	Kelsey Trail	19c	Zenon Park *	Primary Health Centre	7			Zenon Park	S0E 1W0	53.06666667	-103.75
