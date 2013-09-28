@@ -17,21 +17,24 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/all_filter"/>
+            android:text="@string/all_filter"
+            android:onClick="onClick"/>
 
        <Button
             android:id="@+id/hospital_filter_btn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/hospitals_filter"/>
+            android:text="@string/hospitals_filter"
+            android:onClick="onClick"/>
         
         <Button
             android:id="@+id/clinic_filter_btn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/clinics_filter"/>
+            android:text="@string/clinics_filter"
+            android:onClick="onClick"/>
         
     </LinearLayout>
         
@@ -39,9 +42,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/filter_options_container"
-        android:layout_above="@+id/sort_options_container">
+        android:layout_above="@+id/sort_by_txt">
         
     </ListView>
+    
+    <TextView 
+        android:id="@+id/sort_by_txt"
+        android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_above="@+id/sort_options_container"
+		android:gravity="center"
+		android:text="@string/sort_header"/>
     
     <LinearLayout
         android:id="@+id/sort_options_container"
@@ -56,28 +67,32 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/default_sort"/>
+            android:text="@string/default_sort"
+            android:onClick="onClick"/>
         
         <Button
             android:id="@+id/best_sort_btn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/best_sort"/>
+            android:text="@string/best_sort"
+            android:onClick="onClick"/>
         
         <Button
             android:id="@+id/worst_sort_btn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/worst_sort"/>
+            android:text="@string/worst_sort"
+            android:onClick="onClick"/>
         
         <Button
             android:id="@+id/nearby_sort_btn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/nearby_sort"/>
+            android:text="@string/nearby_sort"
+            android:onClick="onClick"/>
         
     </LinearLayout>
     
