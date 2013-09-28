@@ -33,8 +33,7 @@
             android:label="@string/physicians_title">
         </activity>
         <activity
-            android:name="com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity"
-            android:label="@string/physicians_title">
+            android:name="com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity">
         </activity>
     </application>
 
