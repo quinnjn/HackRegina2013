@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.model.Doctor;
+import com.example.ratemydoctorregina.model.ModelManager;
 import com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity;
 import com.example.ratemydoctorregina.physiciansscreen.PhysiciansAdapter.SortBy;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
@@ -36,6 +37,17 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 		_physicians.setAdapter(new PhysiciansAdapter(this));
 		
 		refresh();
+	}
+	
+	@Override
+	protected void onResume()
+	{
+		if(_physicians != null && _physicians.getAdapter() != null && ModelManager.getInstance().get_doctors() != null)
+		{
+			((PhysiciansAdapter)_physicians.getAdapter()).setData(ModelManager.getInstance().get_doctors());
+		}
+		
+		super.onResume();
 	}
 	
 	OnItemClickListener physician_listener = new OnItemClickListener() 
@@ -102,7 +114,8 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 	@Override
 	public void AllDoctorsFetcherDidFinishFetchingUpdate(ArrayList<Doctor> doctors) 
 	{
-		((PhysiciansAdapter)_physicians.getAdapter()).setData(doctors);
+		ModelManager.getInstance().set_doctors(doctors);
+		((PhysiciansAdapter)_physicians.getAdapter()).setData(ModelManager.getInstance().get_doctors());
 		_progress.dismiss();
 	}
 

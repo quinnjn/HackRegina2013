@@ -43,7 +43,7 @@ public class PhysicianDetailsActivity extends Activity implements OnClickListene
 				Intent intent = new Intent(this, PhysicianRateActivity.class);
 				intent.putExtra("doctor", _doctor);
 				startActivity(intent);
-				
+				finish();
 				break;
 		}
 	}
