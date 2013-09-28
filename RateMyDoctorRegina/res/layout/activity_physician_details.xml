@@ -68,6 +68,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="30dp"
         android:text="@string/rate_me_btn"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"
+        android:onClick="onClick"/>
     
 </RelativeLayout>

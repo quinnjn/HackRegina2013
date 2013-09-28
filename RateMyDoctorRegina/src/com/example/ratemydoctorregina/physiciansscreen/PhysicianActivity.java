@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.model.Doctor;
 import com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity;
+import com.example.ratemydoctorregina.physiciansscreen.PhysiciansAdapter.SortBy;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTaskDelegate;
 
@@ -72,22 +73,22 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 	/* Sort Press Handlers */
 	private void handleNoneSortPress()
 	{
-		
+		((PhysiciansAdapter)_physicians.getAdapter()).sortBy(SortBy.NAME);
 	}
 	
 	private void handleBestSortPress()
 	{
-		
+		((PhysiciansAdapter)_physicians.getAdapter()).sortBy(SortBy.BEST);
 	}
 	
 	private void handleWorstSortPress()
 	{
-		
+		((PhysiciansAdapter)_physicians.getAdapter()).sortBy(SortBy.WORST);
 	}
 	
 	private void handleSpecialtySortPress()
 	{
-		
+		((PhysiciansAdapter)_physicians.getAdapter()).sortBy(SortBy.SPECIALTY);
 	}
 
 	@Override
@@ -103,7 +104,6 @@ public class PhysicianActivity extends Activity implements OnClickListener, AllD
 	public void AllDoctorsFetcherDidFinishFetchingUpdate(ArrayList<Doctor> doctors) 
 	{
 		((PhysiciansAdapter)_physicians.getAdapter()).setData(doctors);
-		_physicians.postInvalidate();
 		_progress.dismiss();
 	}
 
