@@ -7,11 +7,10 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.BaseAdapter;
+import android.view.View.OnClickListener;
 import android.widget.TextView;
 
-public class PhysicianDetailsActivity extends Activity 
+public class PhysicianDetailsActivity extends Activity implements OnClickListener
 {
 
 	Doctor _doctor;
@@ -27,12 +26,21 @@ public class PhysicianDetailsActivity extends Activity
 		setTitle(_doctor.get_name());
 		
 		initTextFields();
-		
 	}
 	
 	private void initTextFields()
 	{
 		((TextView)findViewById(R.id.specialty_txt)).setText(_doctor.get_specialties());
 		((TextView)findViewById(R.id.rating_txt)).setText("Rating: " + _doctor.get_rating());
+	}
+
+	@Override
+	public void onClick(View v) 
+	{
+		switch(v.getId())
+		{
+			case R.id.rate_btn:
+				break;
+		}
 	}
 }
