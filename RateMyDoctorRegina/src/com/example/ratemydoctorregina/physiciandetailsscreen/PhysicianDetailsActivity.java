@@ -40,6 +40,10 @@ public class PhysicianDetailsActivity extends Activity implements OnClickListene
 		switch(v.getId())
 		{
 			case R.id.rate_btn:
+				Intent intent = new Intent(this, PhysicianRateActivity.class);
+				intent.putExtra("doctor", _doctor);
+				startActivity(intent);
+				
 				break;
 		}
 	}

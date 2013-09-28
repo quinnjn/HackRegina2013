@@ -8,6 +8,8 @@ import org.json.JSONObject;
 
 public class Doctor implements Serializable
 {
+	private int _provider_id;
+	
 	private String _name;
 	
 	private String _specialty;
@@ -33,8 +35,15 @@ public class Doctor implements Serializable
 			_specialty = json.getString("specialty");
 		}
 		
-		// TODO:  Add facility PULL
-		
+		if (json.has("provider_id"))
+		{
+			_provider_id = json.getInt("provider_id");
+		}
+	}
+	
+	public int get_id()
+	{
+		return _provider_id;
 	}
 	
 	public String get_name() 
