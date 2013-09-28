@@ -24,7 +24,7 @@ public class RateMyDoctorAsyncTask extends AsyncTask<Void, Void, Boolean>
 	
 	public RateMyDoctorAsyncTask(Doctor doctor, Activity context)
 	{
-		url += "/" + doctor.get_id() + "/" + (int)doctor.get_rating() + "/" + doctor.get_name();
+		url += "/" + doctor.get_id() + "/" + ((int)doctor.get_rating()) + "/" + doctor.get_name();
 		_context = context;
 		
 		for(Doctor d : ModelManager.getInstance().get_doctors())

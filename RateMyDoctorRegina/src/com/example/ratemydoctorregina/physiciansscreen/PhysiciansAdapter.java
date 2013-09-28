@@ -90,8 +90,8 @@ public class PhysiciansAdapter extends BaseAdapter
 	{
 		if(type == SortBy.BEST)
 		{
-			if(_best_sorted == null)
-			{
+//			if(_best_sorted == null)
+//			{
 				Collections.sort(_physicians, new Comparator<Doctor>() 
 						{
 							@Override
@@ -102,14 +102,14 @@ public class PhysiciansAdapter extends BaseAdapter
 						});
 				_best_sorted = new ArrayList<Doctor>();
 				_best_sorted.addAll(_physicians);
-			}
+//			}
 			
 			_physicians = _best_sorted;			
 		}
 		else if(type == SortBy.WORST)
 		{
-			if(_worst_sorted == null)
-			{
+//			if(_worst_sorted == null)
+//			{
 				Collections.sort(_physicians, new Comparator<Doctor>() 
 						{
 							@Override
@@ -120,14 +120,14 @@ public class PhysiciansAdapter extends BaseAdapter
 						});
 				_worst_sorted = new ArrayList<Doctor>();
 				_worst_sorted.addAll(_physicians);
-			}
+//			}
 			
 			_physicians = _worst_sorted;
 		}
 		else if(type == SortBy.SPECIALTY)
 		{
-			if(_specialty_sorted == null)
-			{
+//			if(_specialty_sorted == null)
+//			{
 				Collections.sort(_physicians, new Comparator<Doctor>() 
 						{
 							@Override
@@ -138,7 +138,7 @@ public class PhysiciansAdapter extends BaseAdapter
 						});
 				_specialty_sorted = new ArrayList<Doctor>();
 				_specialty_sorted.addAll(_physicians);
-			}
+//			}
 			
 			_physicians = _specialty_sorted;
 		}
