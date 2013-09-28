@@ -1,5 +1,8 @@
 package com.example.ratemydoctorregina.mapscreen;
 
-public class MapActivity {
+import android.app.Activity;
+
+public class MapActivity extends Activity
+{
 
 }
