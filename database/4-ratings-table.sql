@@ -1,1 +1,1 @@
-create table hackathon.ratings(provider_id int, rating int, comments varchar(2500))
+CREATE TABLE HACKATHON.ratings(doctor_id int, rating int, comments varchar(2500))
