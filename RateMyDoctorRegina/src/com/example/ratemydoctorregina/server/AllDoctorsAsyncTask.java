@@ -33,7 +33,7 @@ public class AllDoctorsAsyncTask extends AsyncTask<Void, Void, ArrayList<Doctor>
 
 		try 
 		{
-			String url = "http://home.neumiiller.com:8080/Doctor.json";
+			String url = "http://108.174.164.162:8080/Doctor.json";
 			
 			JSONObject json = JsonUtils.readJsonGetFromUrl(url);
 			
