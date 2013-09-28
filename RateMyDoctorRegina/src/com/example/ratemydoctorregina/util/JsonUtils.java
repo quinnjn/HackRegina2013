@@ -68,7 +68,7 @@ public class JsonUtils
 		
 		try 
 		{	
-			url = "http://108.174.164.162:8080/Doctor.json";
+			//url = "http://108.174.164.162:8080/Doctor.json";
 			HttpClient client = new DefaultHttpClient();
 			HttpGet request = new HttpGet();
 			request.setURI(new URI(url));

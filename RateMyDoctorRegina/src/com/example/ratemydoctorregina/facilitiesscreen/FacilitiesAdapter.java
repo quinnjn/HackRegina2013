@@ -34,13 +34,13 @@ public class FacilitiesAdapter extends BaseAdapter
 	@Override
 	public int getCount() 
 	{
-		return 2;//_facilities.size();
+		return _facilities.size();//_facilities.size();
 	}
 
 	@Override
 	public Object getItem(int position) 
 	{
-		return null; //_facilities.get(position);
+		return _facilities.get(position);
 	}
 
 	@Override
@@ -60,9 +60,14 @@ public class FacilitiesAdapter extends BaseAdapter
 			view = _context.getLayoutInflater().inflate(R.layout.cell_facility, null);
 		}
 		
-		((TextView)view.findViewById(R.id.facility_name_txt)).setText("Name");
-		((TextView)view.findViewById(R.id.location_txt)).setText("Location");
-		((TextView)view.findViewById(R.id.rating_txt)).setText("Rating: .5");
+		Facility facility = _facilities.get(position);
+		
+		((TextView)view.findViewById(R.id.facility_name_txt)).setText(facility.get_name());
+		((TextView)view.findViewById(R.id.location_txt)).setText(facility.get_addressInfo());
+		
+		float value = facility.get_rating();
+		
+		((TextView)view.findViewById(R.id.rating_txt)).setText(String.valueOf(value));
 		
 		return view;
 	}

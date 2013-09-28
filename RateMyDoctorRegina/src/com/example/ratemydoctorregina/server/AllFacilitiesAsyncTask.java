@@ -6,6 +6,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import android.os.AsyncTask;
+import android.util.Log;
 
 import com.example.ratemydoctorregina.model.Facility;
 import com.example.ratemydoctorregina.util.JsonUtils;
@@ -33,11 +34,13 @@ public class AllFacilitiesAsyncTask extends AsyncTask<Void, Void, ArrayList<Faci
 
 		try 
 		{
-			String url = "http://home.neumiiller.com:8080/Facility.json";
+			String url = "http://108.174.164.162:8080/Facility.json";
 			
 			JSONObject json = JsonUtils.readJsonGetFromUrl(url);
 			
-			JSONArray facilityArray = json.getJSONArray("Facility");
+			JSONArray facilityArray = json.getJSONArray("Facility"); 
+			
+			Log.i("DEBUG", "Number of facilities: " + facilityArray.length());
 			
 			for (int i = 0; i < facilityArray.length(); i++)
 			{
