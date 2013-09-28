@@ -1,0 +1,1 @@
+create table hackathon.ratings(provider_id int, rating int, comments varchar(2500))
