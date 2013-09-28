@@ -7,16 +7,24 @@
     <TextView 
         android:id="@+id/facility_name_txt"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content" 
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:padding="15dp"/>
     
     <TextView 
         android:id="@+id/location_txt"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
-    
+        android:layout_width="wrap_content" 
+        android:layout_below="@+id/facility_name_txt"
+        android:padding="15dp"/>
+        
     <TextView 
         android:id="@+id/rating_txt"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content" 
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="15dp"/>
 
 </RelativeLayout>
