@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.charset.Charset;
 import java.security.SecureRandom;
@@ -22,6 +24,7 @@ import org.apache.http.NameValuePair;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.json.JSONException;
@@ -61,13 +64,21 @@ public class JsonUtils
 		
 		Log.i("DEBUG", "Retrieving JSON from URL: " + url);
 
+		InputStream is = null;
+		
 		try 
 		{	
-			InputStream is = new URL(url).openStream();
+			url = "http://108.174.164.162:8080/Doctor.json";
+			HttpClient client = new DefaultHttpClient();
+			HttpGet request = new HttpGet();
+			request.setURI(new URI(url));
+			
+			HttpResponse response = client.execute(request);
+			
+			is = new URL(url).openStream();
 			BufferedReader rd = new BufferedReader(new InputStreamReader(is, Charset.forName("UTF-8")));
 			String jsonText = readAll(rd);
 			JSONObject json = new JSONObject(jsonText);
-			is.close();
 			return json;
 		} 
 		catch(IOException ioException)
@@ -75,9 +86,27 @@ public class JsonUtils
 			ioException.printStackTrace();
 			return null;
 		}
-		catch (JSONException jsonException) {
+		catch (JSONException jsonException) 
+		{
 			jsonException.printStackTrace();
 			return null;
+		} catch (URISyntaxException e) {
+			e.printStackTrace();
+			return null;
+		}
+		finally
+		{
+			if(is != null)
+			{
+				try 
+				{
+					is.close();
+				}
+				catch (IOException e) 
+				{
+					e.printStackTrace();
+				}
+			}
 		}
 	}
 	

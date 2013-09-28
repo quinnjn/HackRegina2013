@@ -1,17 +1,27 @@
 package com.example.ratemydoctorregina.physiciansscreen;
 
+import java.util.ArrayList;
+
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesAdapter;
+import com.example.ratemydoctorregina.model.Doctor;
+import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
+import com.example.ratemydoctorregina.server.AllDoctorsAsyncTaskDelegate;
 
 import android.app.Activity;
+import android.app.ProgressDialog;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-public class PhysicianActivity extends Activity implements OnClickListener 
+public class PhysicianActivity extends Activity implements OnClickListener, AllDoctorsAsyncTaskDelegate
 {
-	ListView physicians;
+	ListView _physicians;
+	ProgressDialog _progress;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
@@ -19,8 +29,22 @@ public class PhysicianActivity extends Activity implements OnClickListener
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_physicians);
 		
-		physicians = ((ListView)findViewById(R.id.physicians_list));
+		_physicians = ((ListView)findViewById(R.id.physicians_list));
+		_physicians.setOnItemClickListener(physician_listener);
+		_physicians.setAdapter(new PhysiciansAdapter(this));
+		
+		AllDoctorsAsyncTask task = new AllDoctorsAsyncTask(this);
+		task.execute();
 	}
+	
+	OnItemClickListener physician_listener = new OnItemClickListener() 
+	{
+		@Override
+		public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) 
+		{
+			
+		}
+	};
 
 	@Override
 	public void onClick(View v) 
@@ -61,5 +85,28 @@ public class PhysicianActivity extends Activity implements OnClickListener
 	private void handleSpecialtySortPress()
 	{
 		
+	}
+
+	@Override
+	public void AllDoctorsFetcherWillStartToFetchUpdate() 
+	{
+		_progress = new ProgressDialog(this);
+		_progress.setTitle("Loading Doctors");
+		_progress.setCanceledOnTouchOutside(false);
+		_progress.show();
+	}
+
+	@Override
+	public void AllDoctorsFetcherDidFinishFetchingUpdate(ArrayList<Doctor> doctors) 
+	{
+		((PhysiciansAdapter)_physicians.getAdapter()).setData(doctors);
+		_physicians.postInvalidate();
+		_progress.dismiss();
+	}
+
+	@Override
+	public void AllDoctorsFetcherDidFailToFetchUpdate() 
+	{
+		Log.d("RateMyDoctor", "Failed to fetch doctors");
 	}
 }

@@ -25,18 +25,19 @@ public class PhysiciansAdapter extends BaseAdapter
 	public void setData(ArrayList<Doctor> physicians)
 	{
 		_physicians = physicians;
+		notifyDataSetChanged();
 	}
 	
 	@Override
 	public int getCount() 
 	{
-		return 2;//_facilities.size();
+		return _physicians.size();
 	}
 
 	@Override
 	public Object getItem(int position) 
 	{
-		return null; //_facilities.get(position);
+		return _physicians.get(position);
 	}
 
 	@Override
@@ -56,9 +57,11 @@ public class PhysiciansAdapter extends BaseAdapter
 			view = _context.getLayoutInflater().inflate(R.layout.cell_facility, null);
 		}
 		
-		((TextView)view.findViewById(R.id.facility_name_txt)).setText("Name");
-		((TextView)view.findViewById(R.id.location_txt)).setText("Location");
-		((TextView)view.findViewById(R.id.rating_txt)).setText("Rating: .5");
+		Doctor doctor = _physicians.get(position);
+		
+		((TextView)view.findViewById(R.id.facility_name_txt)).setText(doctor.get_name());
+		((TextView)view.findViewById(R.id.location_txt)).setText(doctor.get_specialties());
+		((TextView)view.findViewById(R.id.rating_txt)).setText("Rating: " + doctor.get_rating());
 		
 		return view;
 	}
