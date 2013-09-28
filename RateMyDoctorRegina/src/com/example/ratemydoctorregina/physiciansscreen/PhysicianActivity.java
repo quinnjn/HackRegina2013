@@ -3,7 +3,6 @@ package com.example.ratemydoctorregina.physiciansscreen;
 import java.util.ArrayList;
 
 import com.example.ratemydoctorregina.R;
-import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesAdapter;
 import com.example.ratemydoctorregina.model.Doctor;
 import com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity;
 import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
