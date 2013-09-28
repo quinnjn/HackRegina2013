@@ -5,12 +5,8 @@ import java.util.ArrayList;
 
 import com.example.ratemydoctorregina.R;
 import com.example.ratemydoctorregina.facilitiesdetailscreen.FacilityDetailActivity;
-import com.example.ratemydoctorregina.model.Doctor;
 import com.example.ratemydoctorregina.model.Facility;
-import com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity;
-import com.example.ratemydoctorregina.physiciansscreen.PhysicianActivity;
-import com.example.ratemydoctorregina.physiciansscreen.PhysiciansAdapter;
-import com.example.ratemydoctorregina.server.AllDoctorsAsyncTask;
+import com.example.ratemydoctorregina.facilitiesscreen.FacilitiesAdapter.SortBy;
 import com.example.ratemydoctorregina.server.AllFacilitiesAsyncTask;
 import com.example.ratemydoctorregina.server.AllFacilitiesAsyncTaskDelegate;
 
@@ -115,22 +111,22 @@ public class FacilitiesActivity extends Activity implements OnClickListener, All
 	/* Sort Press Handlers */
 	private void handleNoneSortPress()
 	{
-		
+		((FacilitiesAdapter)_facilities.getAdapter()).sortBy(SortBy.NAME);
 	}
 	
 	private void handleBestSortPress()
 	{
-		
+		((FacilitiesAdapter)_facilities.getAdapter()).sortBy(SortBy.BEST);
 	}
 	
 	private void handleWorstSortPress()
 	{
-		
+		((FacilitiesAdapter)_facilities.getAdapter()).sortBy(SortBy.WORST);
 	}
 	
 	private void handleNearbySortPress()
 	{
-		
+		((FacilitiesAdapter)_facilities.getAdapter()).sortBy(SortBy.NAME);
 	}
 
 	@Override
