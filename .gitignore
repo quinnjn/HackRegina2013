@@ -1,0 +1,5 @@
+RateMyDoctorRegina/bin/
+RateMyDoctorRegina/bin/*
+RateMyDoctorRegina/gen/
+RateMyDoctorRegina/gen/*
+*.class
