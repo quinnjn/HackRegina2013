@@ -3,6 +3,8 @@ package com.example.ratemydoctorregina.model;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+import org.json.JSONObject;
+
 import android.location.Location;
 
 public class Facility implements Serializable
@@ -20,6 +22,11 @@ public class Facility implements Serializable
 		
 	}
 
+	public void init(JSONObject json)
+	{
+		// TODO:  Implement this method
+	}
+	
 	public String get_name() 
 	{
 		return _name;

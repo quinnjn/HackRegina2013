@@ -35,6 +35,10 @@
         <activity
             android:name="com.example.ratemydoctorregina.physiciandetailsscreen.PhysicianDetailsActivity">
         </activity>
+        <activity 
+            android:name="com.example.ratemydoctorregina.facilitiesdetailscreen.FacilityDetailActivity"
+            android:label="@string/physicians_title">
+        </activity>
     </application>
 
 </manifest>
